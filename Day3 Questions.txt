@@ -1,0 +1,139 @@
+Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?
+A. VPC Flow Logs 
+B. Amazon Inspector
+C. VPC endpoint services
+D. NAT gateway
+ANSWER: A
+
+Which AWS tool or feature acts as a VPC firewall at the subnet level?
+A. Security group
+B. Network ACL 
+C. Traffic Mirroring
+D. Internet gateway
+ANSWER: B
+
+What is the purpose of having an internet gateway within a VPC?
+A. To create a VPN connection to the VPC
+B. To allow communication between the VPC and the internet 
+C. To impose bandwidth constraints on internet traffic
+D. To load balance traffic from the internet across Amazon EC2 instances
+ANSWER: B
+
+Which of the following are Amazon Virtual Private Cloud (Amazon VPC) resources?
+A. Objects; access control lists (ACLs)
+B. Subnets; internet gateways 
+C. Access policies; buckets
+D. Groups; roles
+ANSWER: B
+
+What is the scope of a VPC within the AWS network?
+A. A VPC can span all Availability Zones globally.
+B. A VPC must span at least two subnets in each AWS Region.
+C. A VPC must span at least two edge locations in each AWS Region.
+D. A VPC can span all Availability Zones within an AWS Region.
+ANSWER: D
+
+A company needs to establish a connection between two VPCs. The VPCs are located in two different AWS Regions. The company wants to use the existing infrastructure of the VPCs for this connection. Which AWS service or feature can be used to establish this connection?
+A. AWS Client VPN
+B. VPC peering
+C. AWS Direct Connect
+D. VPC endpoints
+ANSWER: B
+
+A pharmaceutical company operates its infrastructure in a single AWS Region. The company has thousands of VPCs in a various AWS accounts that it wants to interconnect.Which AWS service or feature should the company use to help simplify management and reduce operational costs?
+A. VPC endpoint
+B. AWS Direct Connect
+C. AWS Transit Gateway 
+D. VPC peering
+ANSWER: C
+
+Which component of the AWS global infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
+A. AWS Region
+B. Availability Zone
+C. Edge location
+D. AWS Outposts
+ANSWER: B 
+
+A company has a single Amazon EC2 instance. The company wants to adopt a highly available architecture. What can the company do to meet this requirement?
+A. Scale vertically to a larger EC2 instance size.
+B. Scale horizontally across multiple Availability Zones.
+C. Purchase an EC2 Dedicated Instance.
+D. Change the EC2 instance family to a compute optimized instance.
+ANSWER: B
+
+A company is using Amazon EC2 Auto Scaling to scale its Amazon EC2 instances. Which benefit of the AWS Cloud does this example illustrate?
+A. High availability 
+B. Elasticity 
+C. Reliability
+D. Global reach
+ANSWER: B
+
+A user needs to determine whether an Amazon EC2 instance's security groups were modified in the last month. How can the user see if a change was made?
+A. Use Amazon EC2 to see if the security group was changed.
+B. Use AWS Identity and Access Management (IAM) to see which user or role changed the security group.
+C. Use AWS CloudTrail to see if the security group was changed.
+D. Use Amazon CloudWatch to see if the security group was changed.
+ANSWER: C
+
+Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?
+A. Amazon Inspector
+B. AWS CloudTrail
+C. Amazon CloudWatch
+D. AWS Config
+ANSWER: C
+
+A user wants to deploy a service to the AWS Cloud by using infrastructure-as-code (IaC) principles. Which AWS service can be used to meet this requirement?
+A. AWS Systems Manager
+B. AWS CloudFormation
+C. AWS CodeCommit
+D. AWS Config
+ANSWER: B
+
+A company needs to identify the last time that a specific user accessed the AWS Management Console.Which AWS service will provide this information?
+A. Amazon Cognito
+B. AWS CloudTrail 
+C. Amazon Inspector
+D. Amazon GuardDuty
+ANSWER: B
+
+A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network. Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
+A. Network ACLs
+B. Security groups
+C. AWS WAF
+D. Amazon GuardDuty
+ANSWER: B
+
+A company wants to implement threat detection on its AWS infrastructure. However, the company does not want to deploy additional software. Which AWS service should the company use to meet these requirements?
+A. Amazon VPC
+B. Amazon EC2
+C. Amazon GuardDuty
+D. AWS Direct Connect
+ANSWER: C
+
+Which AWS service can be used to encrypt data at rest?
+A. Amazon GuardDuty
+B. AWS Shield
+C. AWS Security Hub
+D. AWS Key Management Service (AWS KMS)
+ANSWER: D
+
+A company needs to implement identity management for a fleet of mobile apps that are running in the AWS Cloud.Which AWS service will meet this requirement?
+A. Amazon Cognito 
+B. AWS Security Hub
+C. AWS Shield
+D. AWS WAF
+ANSWER: A
+
+A retail company has recently migrated its website to AWS. The company wants to ensure that it is protected from SQL injection attacks.The website uses an Application Load Balancer to distribute traffic to multiple Amazon EC2 instances.Which AWS service or feature can be used to create a custom rule that blocks SQL injection attacks?
+A. Security groups
+B. AWS WAF 
+C. Network ACLs
+D. AWS Shield
+ANSWER: B
+
+Which AWS service will help protect applications running on AWS from DDoS attacks?
+A. Amazon GuardDuty
+B. AWS WAF
+C. AWS Shield
+D. Amazon Inspector
+ANSWER: C

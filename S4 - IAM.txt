@@ -1,0 +1,82 @@
+In which situations should a company create an IAM user instead of an IAM role? (Choose two.)
+A. When an application that runs on Amazon EC2 instances requires access to other AWS services
+B. When the company creates AWS access credentials for individuals 
+C. When the company creates an application that runs on a mobile phone that makes requests to AWS
+D. When the company needs to add users to IAM groups 
+E. When users are authenticated in the corporate network and want to be able to use AWS without having to sign in a second time
+Answer: B,D
+
+Which AWS service or feature identifies whether an Amazon S3 bucket or an IAM role has been shared with an external entity?
+A. AWS Service Catalog
+B. AWS Systems Manager
+C. AWS IAM Access Analyzer
+D. AWS Organizations
+ANSWER: C
+
+Which AWS service or feature checks access policies and offers actionable recommendations to help users set secure and functional policies?
+A. AWS Systems Manager
+B. AWS IAM Access Analyzer
+C. AWS Trusted Advisor
+D. Amazon GuardDuty
+ANSWER: B
+
+Which AWS service is always provided at no charge?
+A. Amazon S3
+B. AWS Identity and Access Management (IAM)
+C. Elastic Load Balancers
+D. AWS WAF
+Answer: B
+
+Which of the following is an AWS best practice for managing an AWS account root user?
+A. Keep the root user password with the security team.
+B. Enable multi-factor authentication (MFA) for the root user. 
+C. Create an access key for the root user. 
+D. Keep the root user password consistent for compliance purposes.
+Answer: B
+
+Which of the following is a characteristic of the AWS account root user?
+A. The root user is the only user that can be configured with multi-factor authentication (MFA).
+B. The root user is the only user that can access the AWS Management Console.
+C. The root user is the first sign-in identity that is available when an AWS account is created. 
+D. The root user has a password that cannot be changed.
+Answer: C
+
+A company stores configuration files in an Amazon S3 bucket. These configuration files must be accessed by applications that are running on Amazon EC2 instances.According to AWS security best practices, how should the company grant permissions to allow the applications for access the S3 bucket?
+A. Use the AWS account root user access keys.
+B. Use the AWS access key ID and the EC2 secret access key.
+C. Use an IAM role with the necessary permissions.
+D. Activate multi-factor authentication (MFA) and versioning on the S3 bucket.
+Answer: C
+
+Who can create and manage access keys for an AWS account root user?
+A. The AWS account owner
+B. An IAM user that has administrator permissions
+C. IAM users within a designated group
+D. An IAM user that has the required role
+Answer: A
+
+A company wants to organize its users so that the company can grant permissions to the users as a group. Which AWS service or tool can the company use to meet this requirement?
+A. Security groups
+B. AWS Identity and Access Management (IAM) Most Voted
+C. Resource groups
+D. AWS Security Hub
+Answer: B
+
+Which of the following actions are controlled with AWS Identity and Access Management (IAM)? (Choose two.)
+A. Control access to AWS service APIs and to other specific resources. 
+B. Provide intelligent threat detection and continuous monitoring.
+C. Protect the AWS environment using multi-factor authentication (MFA). 
+D. Grant users access to AWS data centers.
+E. Provide firewall protection for applications from common web attacks.
+Answer: AC
+
+What information is found on an AWS Identity and Access Management (IAM) credential report? (Choose two.)
+A. The date and time when an IAM user's password was last used to sign in to the AWS Management Console. Most Voted
+B. The type of multi-factor authentication (MFA) device assigned to an IAM user.
+C. The User-Agent browser identifier for each IAM user currently logged in.
+D. Whether multi-factor authentication (MFA) has been enabled for an IAM user. Most Voted
+E. The number of incorrect login attempts by each IAM user in the previous 30 days
+Answer: AD
+
+
+

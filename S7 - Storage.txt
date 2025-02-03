@@ -1,0 +1,86 @@
+Which AWS services or features provide disaster recovery solutions for Amazon EC2 instances? (Choose two.)
+A. Reserved Instances
+B. EC2 Amazon Machine Images (AMIs)
+C. Amazon Elastic Block Store (Amazon EBS) snapshots
+D. AWS Shield
+E. Amazon GuardDuty
+Answer: B,C
+
+Which AWS service is used to provide encryption for Amazon EBS?
+A. AWS Certificate Manager
+B. AWS Systems Manager
+C. AWS KMS
+D. AWS Config
+Answer: C
+
+Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon EC2 instance store 
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon S3
+Answer: B
+
+A company has a fleet of cargo ships. The cargo ships have sensors that collect data at sea, where there is intermittent or no internet connectivity. The company needs to collect, format, and process the data at sea and move the data to AWS later. Which AWS service should the company use to meet these requirements?
+A. AWS IoT Core
+B. Amazon Lightsail
+C. AWS Storage Gateway
+D. AWS Snowball Edge
+ANSWER: D
+
+A company has a physical tape library to store data backups. The tape library is running out of space. The company needs to extend the tape library's capacity to the AWS Cloud. Which AWS service should the company use to meet this requirement?
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon S3
+C. Amazon Elastic File System (Amazon EFS)
+D. AWS Storage Gateway
+ANSWER: D
+
+Which disaster recovery option is the LEAST expensive?
+A. Warm standby
+B. Multisite
+C. Backup and restore
+D. Pilot light
+ANSWER: C
+
+A company is migrating to Amazon S3. The company needs to transfer 60 TB of data from an on-premises data center to AWS within 10 days.Which AWS service should the company use to accomplish this migration?
+A. Amazon S3 Glacier
+B. AWS Database Migration Service (AWS DMS)
+C. AWS Snowball
+D. AWS Direct Connect
+ANSWER: C
+
+Which AWS service provides storage that can be mounted across multiple Amazon EC2 instances?
+A. Amazon WorkSpaces
+B. Amazon Elastic File System (Amazon EFS)
+C. AWS Database Migration Service (AWS DMS)
+D. AWS Snowball Edge
+Answer: B
+
+A company needs to transfer 60 TB of data to the AWS Cloud in a secure manner. Which of the following should the company use to meet these requirements?
+A. AWS Snowball Edge device
+B. Amazon Elastic Block Store (Amazon EBS)
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon S3
+Answer: A
+
+A company needs fully managed, highly reliable, and scalable file storage that is accessible over the Server Message Block (SMB) protocol. Which AWS service will meet these requirements?
+A. Amazon S3
+B. Amazon Elastic File System (Amazon EFS)
+C. Amazon FSx for Windows File Server 
+D. Amazon Elastic Block Store (Amazon EBS
+Answer: C 
+
+Which AWS services provide high availability across multiple Availability Zones by default? (Choose two.)
+A. Amazon EC2
+B. Amazon Elastic Block Store (Amazon EBS)
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon Redshift
+E. Amazon S3
+Answer: C,E
+
+Which AWS service or resource helps on-premises applications connect to AWS Cloud-based storage and caches the data locally for low-latency access?
+A. AWS Direct Connect
+B. AWS Storage Gateway 
+C. Amazon S3
+D. AWS Snowball Edge
+Answer: B
+

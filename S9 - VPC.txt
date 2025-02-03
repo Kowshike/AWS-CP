@@ -1,0 +1,71 @@
+Which AWS service or tool can be used to capture information about inbound and outbound traffic in an Amazon VPC?
+A. VPC Flow Logs 
+B. Amazon Inspector
+C. VPC endpoint services
+D. NAT gateway
+Answer: A
+
+Which AWS tool or feature acts as a VPC firewall at the subnet level?
+A. Security group
+B. Network ACL 
+C. Traffic Mirroring
+D. Internet gateway
+Answer: B
+
+A company is moving its office and must establish an encrypted connection to AWS. Which AWS service will help meet this requirement?
+A. AWS VPN
+B. Amazon Route 53
+C. Amazon API Gateway
+D. Amazon Connect
+Answer: A
+
+What is the purpose of having an internet gateway within a VPC?
+A. To create a VPN connection to the VPC
+B. To allow communication between the VPC and the internet 
+C. To impose bandwidth constraints on internet traffic
+D. To load balance traffic from the internet across Amazon EC2 instances
+Answer: B
+
+Which of the following are Amazon Virtual Private Cloud (Amazon VPC) resources?
+A. Objects; access control lists (ACLs)
+B. Subnets; internet gateways 
+C. Access policies; buckets
+D. Groups; roles
+Answer: B
+
+Which AWS services offer gateway VPC endpoints that can be used to avoid sending traffic over the internet? (Choose two.)
+A. Amazon Simple Notification Service (Amazon SNS)
+B. Amazon Simple Queue Service (Amazon SQS)
+C. AWS CodeBuild
+D. Amazon S3 
+E. Amazon DynamoDB
+Answer: D,E
+
+What is the scope of a VPC within the AWS network?
+A. A VPC can span all Availability Zones globally.
+B. A VPC must span at least two subnets in each AWS Region.
+C. A VPC must span at least two edge locations in each AWS Region.
+D. A VPC can span all Availability Zones within an AWS Region.
+Answer: D
+
+A company needs to establish a connection between two VPCs. The VPCs are located in two different AWS Regions. The company wants to use the existing infrastructure of the VPCs for this connection. Which AWS service or feature can be used to establish this connection?
+A. AWS Client VPN
+B. VPC peering
+C. AWS Direct Connect
+D. VPC endpoints
+Answer: B
+
+A pharmaceutical company operates its infrastructure in a single AWS Region. The company has thousands of VPCs in a various AWS accounts that it wants to interconnect.Which AWS service or feature should the company use to help simplify management and reduce operational costs?
+A. VPC endpoint
+B. AWS Direct Connect
+C. AWS Transit Gateway 
+D. VPC peering
+Answer: C
+
+A company is running an Amazon EC2 instance in a VPC. Which of the following can the company use to route and filter incoming network requests for the EC2 instance?
+A. Route tables and web application firewalls
+B. Security groups and route tables
+C. Security groups and a network intrusion system
+D. Route tables and AWS Shield
+Answer: B
+

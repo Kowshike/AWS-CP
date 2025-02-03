@@ -1,0 +1,181 @@
+A company is migrating to the AWS Cloud instead of running its infrastructure on premises. Which of the following are advantages of this migration? (Choose two.)
+A. Elimination of the need to perform security auditing
+B. Increased global reach and agility
+C. Ability to deploy globally in minutes
+D. Elimination of the cost of IT staff members
+E. Redundancy by default for all compute services
+Answer: B,C
+
+Which of the following is an advantage that users experience when they move on-premises workloads to the AWS Cloud?
+A. Elimination of expenses for running and maintaining data centers 
+B. Price discounts that are identical to discounts from hardware providers
+C. Distribution of all operational controls to AWS
+D. Elimination of operational expenses
+ANSWER: A
+
+A retail company is building a new mobile app. The company is evaluating whether to build the app at an on-premises data center or in the AWS Cloud.Which of the following are benefits of building this app in the AWS Cloud? (Choose two.)
+A. A large, upfront capital expense and low variable expenses
+B. Increased speed for trying out new projects 
+C. Complete control over the physical security of the infrastructure
+D. Flexibility to scale up in minutes as the application becomes popular
+E. Ability to pick the specific data centers that will host the application servers
+Answer: B,D
+
+In which ways does the AWS Cloud offer lower total cost of ownership (TCO) of computing resources than on-premises data centers? (Choose
+two.)
+A. AWS replaces upfront capital expenditures with pay-as-you-go costs. 
+B. AWS is designed for high availability, which eliminates user downtime.
+C. AWS eliminates the need for on-premises IT staff.
+D. AWS uses economies of scale to continually reduce prices. 
+E. AWS offers a single pricing model for Amazon EC2 instances.
+ANSWER: A,D
+
+How does the AWS Cloud pricing model differ from the traditional on-premises storage pricing model?
+A. AWS resources do not incur costs
+B. There are no infrastructure operating costs
+C. There are no upfront cost commitments
+D. There are no software licensing costs
+ANSWER: C
+
+A company's on-premises application deployment cycle was 3-4 weeks. After migrating to the AWS Cloud, the company can deploy the application in 2-3 days. Which benefit has this company experienced by moving to the AWS Cloud?
+A. Elasticity
+B. Flexibility
+C. Agility
+D. Resilience
+ANSWER: C
+
+An online company was running a workload on premises and was struggling to launch new products and features. After migrating the workload to AWS, the company can quickly launch products and features and can scale its infrastructure as required. Which AWS Cloud value proposition does this scenario describe?
+A. Business agility
+B. High availability
+C. Security
+D. Centralized auditing
+ANSWER: A
+
+Which of the following are advantages of the AWS Cloud? (Choose two.)
+A. AWS management of user-owned infrastructure
+B. Ability to quickly change required capacity
+C. High economies of scale
+D. Increased deployment time to market
+E. Increased fixed expenses
+ANSWER: B,C
+
+AWS has the ability to achieve lower pay-as-you-go pricing by aggregating usage across hundreds of thousands of users. This describes which advantage of the AWS Cloud?
+A. Launch globally in minutes
+B. Increase speed and agility
+C. High economies of scale
+D. No guessing about compute capacity
+ANSWER: C
+
+Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
+A. Agility
+B. Elasticity
+C. Reliability
+D. Durability
+ANSWER: B
+
+Which characteristics are advantages of using the AWS Cloud? (Choose two.)
+A. A 100% service level agreement (SLA) for all AWS services
+B. Compute capacity that is adjusted on demand
+C. Availability of AWS Support for code development
+D. Enhanced security
+E. Increases in cost and complexity
+ANSWER: B,D
+
+A company wants to eliminate the need to guess infrastructure capacity before deployments. The company also wants to spend its budget on cloud resources only as the company uses the resources. Which advantage of the AWS Cloud matches the company's requirements?
+A. Reliability
+B. Global reach
+C. Economies of scale
+D. Pay-as-you-go pricing
+ANSWER: D
+
+An online retail company has seasonal sales spikes several times a year, primarily around holidays. Demand is lower at other times. The company finds it difficult to predict the increasing infrastructure demand for each season. Which advantages of moving to the AWS Cloud would MOST benefit the company? (Choose two.)
+A. Global footprint
+B. Elasticity
+C. AWS service quotas
+D. AWS shared responsibility model
+E. Pay-as-you-go pricing
+ANSWER: B,E
+
+Which of the following are advantages of moving to the AWS Cloud? (Choose two.)
+A. Users can implement all AWS services in seconds.
+B. AWS assumes all responsibility for the security of infrastructure and applications.
+C. Users experience increased speed and agility.
+D. Users benefit from massive economies of scale.
+E. Users can move hardware from their data center to the AWS Cloud.
+Answer: C,D
+
+A gaming company wants to move its on-premises environment to AWS. The company needs its resources to be highly available. Which benefit does the AWS Cloud provide to meet this requirement?
+A. Reliability
+B. The AWS shared responsibility model
+C. Security
+D. Agility
+Answer: A
+
+Which of the following are advantages of moving from on premises to the AWS Cloud? (Choose two.)
+A. Trade variable expenses for capital expenses.
+B. Eliminate costs related to running and maintaining data centers. Most Voted
+C. Benefit from massive economies of scale.
+D. Eliminate the need to tram IT staff.
+E. Gam the ability to reserve capacity for 7 years or more.
+Answer: B,C
+
+Which cloud computing benefit does AWS demonstrate with its ability to offer lower variable costs as a result of high purchase volumes?
+A. Pay-as-you-go pricing
+B. High availability
+C. Global reach
+D. Economies of scale
+Answer: D
+
+Which of the following are economic advantages of the AWS Cloud? (Choose two.)
+A. Increased workforce productivity 
+B. Decreased need to encrypt user data
+C. Manual compliance audits
+D. Simplified total cost of ownership (TCO) accounting 
+E. Faster product launches
+Answer: AE
+
+A company needs to deliver new website features quickly in an iterative manner to minimize the time to market.
+Which AWS Cloud concept does this requirement represent?
+A. Reliability
+B. Elasticity
+C. Agility 
+D. High availability
+Answer: C
+
+Which benefits does a company gain when the company moves from on-premises IT architecture to the AWS Cloud? (Choose two.)
+A. Reduced or eliminated tasks for hardware troubleshooting, capacity planning, and procurement 
+B. Elimination of the need for trained IT staff
+C. Automatic security configuration of all applications that are migrated to the cloud
+D. Elimination of the need for disaster recovery planning
+E. Faster deployment of new features and applications
+Answer: AE
+
+Which of the following is a cloud benefit that AWS offers to its users?
+A. The ability to configure AWS data center hypervisors
+B. The ability to purchase hardware in advance of increased traffic
+C. The ability to deploy to AWS on a global scale 
+D. Compliance audits for user IT environments
+Answer: C
+
+Which statements explain the business value of migration to the AWS Cloud? (Choose two.)
+A. The migration of enterprise applications to the AWS Cloud makes these applications automatically available on mobile devices.
+B. AWS availability and security provide the ability to improve service level agreements (SLAs) while reducing risk and unplanned downtime.
+C. Companies that migrate to the AWS Cloud eliminate the need to plan for high availability and disaster recovery.
+D. Companies that migrate to the AWS Cloud reduce IT costs related to infrastructure, freeing budget for reinvestment in other areas.
+E. Applications are modernized because migration to the AWS Cloud requires companies to rearchitect and rewrite all enterprise applications
+Answer: BD
+
+What is a benefit of moving to the AWS Cloud in terms of improving time to market?
+A. Decreased deployment speed
+B. Increased application security
+C. Increased business agility
+D. Increased backup capabilities
+Answer: C
+
+Which of the following is an advantage that the AWS Cloud provides to users?
+A. Users eliminate the need to guess about infrastructure capacity requirements.
+B. Users decrease their variable costs by maintaining sole ownership of IT hardware.
+C. Users maintain control of underlying IT infrastructure hardware.
+D. Users maintain control of operating systems for managed services.
+Answer: A
+

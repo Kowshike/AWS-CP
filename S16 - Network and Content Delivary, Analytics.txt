@@ -1,0 +1,127 @@
+A company is planning to run a global marketing application in the AWS Cloud. The application will feature videos that can be viewed by users. The company must ensure that all users can view these videos with low latency. Which AWS service should the company use to meet this requirement?
+A. AWS Auto Scaling
+B. Amazon Kinesis Video Streams
+C. Elastic Load Balancing
+D. Amazon CloudFront
+ANSWER: D
+
+Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?
+A. Amazon Route 53
+B. Amazon Macie
+C. AWS Direct Connect Most Voted
+D. AWS PrivateLink
+ANSWER: C
+
+A company wants to migrate its applications from its on-premises data center to a VPC in the AWS Cloud. These applications will need to access on-premises resources. Which actions will meet these requirements? (Choose two.)
+A. Use AWS Service Catalog to identify a list of on-premises resources that can be migrated.
+B. Create a VPN connection between an on-premises device and a virtual private gateway in the VPC.
+C. Use an Amazon CloudFront distribution and configure it to accelerate content delivery close to the on-premises resources.
+D. Set up an AWS Direct Connect connection between the on-premises data center and AWS.
+E. Use Amazon CloudFront to restrict access to static web content provided through the on-premises web servers.
+ANSWER: B,D
+
+Which AWS service is a highly available and scalable DNS web service?
+A. Amazon VPC
+B. Amazon CloudFront
+C. Amazon Route 53
+D. Amazon Connect
+ANSWER: C
+
+Which of the following are components of an AWS Site-to-Site VPN connection? (Choose two.)
+A. AWS Storage Gateway
+B. Virtual private gateway
+C. NAT gateway
+D. Customer gateway
+E. Internet gateway
+Answer: B,D
+
+A large enterprise with multiple VPCs in several AWS Regions around the world needs to connect and centrally manage network connectivity between its VPCs. Which AWS service or feature meets these requirements?
+A. AWS Direct Connect
+B. AWS Transit Gateway
+C. AWS Site-to-Site VPN
+D. VPC endpoints
+Answer: B
+
+A company wants to analyze streaming user data and respond to customer queries in real time. Which AWS service can meet these requirements?
+A. Amazon QuickSight
+B. Amazon Redshift
+C. Amazon Kinesis Data Analytics
+D. AWS Data Pipeline
+Answer: C
+
+Which AWS service can help a company detect an outage of its website servers and redirect users to alternate servers?
+A. Amazon CloudFront
+B. Amazon GuardDuty
+C. Amazon Route 53
+D. AWS Trusted Advisor
+Answer: C
+
+A company wants to accelerate migration from its data center to the AWS Cloud. Which combination of AWS services should the company use to meet this requirement? (Choose two.)
+A. Amazon Connect
+B. AWS Direct Connect
+C. AWS Server Migration Service (AWS SMS)
+D. Amazon Route 53
+E. AWS Organizations
+Answer: B,C
+
+A company has a global website with static content. Which AWS service will deliver the static content with low latency?
+A. AWS Lambda
+B. Amazon CloudFront
+C. Amazon EC2 Auto Scaling
+D. AWS Compute Optimizer
+Answer: B
+
+Which AWS service can be used to provide an on-demand, cloud-based contact center?
+A. AWS Direct Connect
+B. Amazon Connect
+C. AWS Support Center
+D. AWS Managed Services
+Answer: B
+
+A company is migrating its public website to AWS. The company wants to host the domain name for the website on AWS. Which AWS service should the company use to meet this requirement?
+A. AWS Lambda
+B. Amazon Route 53 
+C. Amazon CloudFront
+D. AWS Direct Connect
+Answer: B
+
+A company is generating large sets of critical data in its on-premises data center. The company needs to securely transfer the data to AWS for processing. These transfers must occur daily over a dedicated connection.
+Which AWS service should the company use to meet these requirements?
+A. AWS Backup
+B. AWS DataSync 
+C. AWS Direct Connect 
+D. AWS Snowball
+Answer: C
+
+Which of the following is a managed AWS service that is used specifically for extract, transform, and load (ETL) data?
+A. Amazon Athena
+B. AWS Glue 
+C. Amazon S3
+D. AWS Snowball Edge
+Answer: B
+
+Which AWS service provides domain registration, DNS routing, and service health checks?
+A. AWS Direct Connect
+B. Amazon Route 53
+C. Amazon CloudFront
+D. Amazon API Gateway
+Answer: B
+
+Which AWS services can use AWS WAF to protect against common web exploitations? (Choose two.)
+A. Amazon Route 53
+B. Amazon CloudFront 
+C. AWS Transfer Family
+D. AWS Site-to-Site VPN
+E. Amazon API Gateway
+Answer: BE
+
+A company is moving its office and must establish an encrypted connection to AWS. Which AWS service will help meet this requirement?
+A. AWS VPN  
+B. Amazon Route 53
+C. Amazon API Gateway
+D. Amazon Connect
+Answer: A
+
+
+
+

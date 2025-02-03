@@ -1,0 +1,141 @@
+A company wants to use the AWS Cloud to provide secure access to desktop applications that are running in a fully managed environment. Which AWS service should the company use to meet this requirement?
+A. Amazon S3
+B. Amazon AppStream 2.0
+C. AWS AppSync
+D. AWS Outposts
+ANSWER: B
+
+Which AWS services make use of global edge locations? (Choose two.)
+A. AWS Fargate
+B. Amazon CloudFront 
+C. AWS Global Accelerator 
+D. AWS Wavelength
+E. Amazon VPC
+Answer: B,C
+
+A company wants to convert video files and audio files from their source format into a format that will play on smartphones, tablets, and web browsers. Which AWS service will meet these requirements?
+A. Amazon Elastic Transcoder
+B. Amazon Comprehend
+C. AWS Glue
+D. Amazon Rekognition
+ANSWER: A
+
+A company wants to perform sentiment analysis on customer service email messages that it receives. The company wants to identify whether the customer service engagement was positive or negative.Which AWS service should the company use to perform this analysis?
+A. Amazon Textract
+B. Amazon Translate
+C. Amazon Comprehend 
+D. Amazon Rekognition
+Answer: C
+
+A company has a social media platform in which users upload and share photos with other users. The company wants to identify and remove inappropriate photos.The company has no machine learning (ML) scientists and must build this detection capability with no ML expertise.Which AWS service should the company use to build this capability?
+A. Amazon SageMaker
+B. Amazon Textract
+C. Amazon Rekognition 
+D. Amazon Comprehend
+Answer: C
+
+A company wants to deploy some of its resources in the AWS Cloud. To meet regulatory requirements, the data must remain local and on premises.There must be low latency between AWS and the company resources.Which AWS service or feature can be used to meet these requirements?
+A. AWS Local Zones
+B. Availability Zones
+C. AWS Outposts
+D. AWS Wavelength Zones
+Answer: C
+
+A company is operating several factories where it builds products. The company needs the ability to process data, store data, and run applications with local system interdependencies that require low latency.Which AWS service should the company use to meet these requirements?
+A. AWS IoT Greengrass
+B. AWS Lambda
+C. AWS Outposts 
+D. AWS Snowball Edge
+ANSWER: C
+
+A company needs to build an application that uses AWS services. The application will be delivered to residents in European Counties.The company must abide by regional regulatory requirements.Which AWS service or program should the company use to determine which AWS services meet the regional requirements?
+A. AWS Audit Manager
+B. AWS Shield
+C. AWS Compliance Program 
+D. AWS Artifact
+Answer: C
+
+Which AWS service supports the creation of visual reports from AWS Cost and Usage Report data?
+A. Amazon Athena
+B. Amazon QuickSight
+C. Amazon CloudWatch
+D. AWS Organizations
+ANSWER: B
+
+Which AWS service or tool should a company use to centrally request and track service limit increases?
+A. AWS Config
+B. Service Quotas
+C. AWS Service Catalog
+D. AWS Budgets
+ANSWER: B
+
+Which AWS service can be used to turn text into lifelike speech?
+A. Amazon Polly
+B. Amazon Kendra
+C. Amazon Rekognition
+D. Amazon Connect
+Answer: A
+
+Which AWS service supports a hybrid architecture that gives users the ability to extend AWS infrastructure, AWS services, APIs, and tools to data centers, co- location environments, or on-premises facilities?
+A. AWS Snowmobile
+B. AWS Local Zones
+C. AWS Outposts
+D. AWS Fargate
+ANSWER: C
+
+Which AWS service uses edge locations?
+A. Amazon Aurora
+B. AWS Global Accelerator
+C. Amazon Connect
+D. AWS Outposts
+ANSWER: B
+
+A manufacturing company has a critical application that runs at a remote site that has a slow internet connection. The company wants to migrate the workload to AWS. The application is sensitive to latency and interruptions in connectivity. The company wants a solution that can host this application with minimum latency. Which AWS service or feature should the company use to meet these requirements?
+A. Availability Zones
+B. AWS Local Zones
+C. AWS Wavelength
+D. AWS Outposts
+ANSWER: D
+
+A company wants to improve the overall availability and performance of its applications that are hosted on AWS. Which AWS service should the company use?
+A. Amazon Connect
+B. Amazon Lightsail
+C. AWS Global Accelerator
+D. AWS Storage Gateway
+ANSWER: C
+
+A company is reviewing the current costs of running its own infrastructure on premises. The company wants to compare these on-premises costs to the costs of running infrastructure in the AWS Cloud. How should the company make this comparison?
+A. Review the AWS shared responsibility model.
+B. Audit existing software and hardware licensing costs.
+C. Analyze the AWS Well-Architected Framework.
+D. Use Migration Evaluator.
+Answer: D
+
+A company accepts enrollment applications on handwritten paper forms. The company uses a manual process to enter the form data into its backend systems. The company wants to automate the process by scanning the forms and capturing the enrollment data from scanned PDF files. Which AWS service should the company use to build this process?
+A. Amazon Rekognition
+B. Amazon Textract  
+C. Amazon Transcribe
+D. Amazon Comprehend
+Answer: B
+
+Which AWS service should a company use to organize, characterize, and search large numbers of images?
+A. Amazon Transcribe
+B. Amazon Rekognition 
+C. Amazon Aurora
+D. Amazon QuickSight
+Answer: B
+
+A company wants to add facial identification to its user verification process on an application. Which AWS service should the company use to meet this requirement?
+A. Amazon Polly
+B. Amazon Transcribe
+C. Amazon Lex
+D. Amazon Rekognition
+Answer: D
+
+A company manages global applications that require static IP addresses. Which AWS service would enable the company to improve the availability and performance of its applications?
+A. Amazon CloudFront
+B. AWS Global Accelerator 
+C. Amazon S3 Transfer Acceleration
+D. Amazon API Gateway
+Answer: B
+

@@ -1,0 +1,99 @@
+A user needs to determine whether an Amazon EC2 instance's security groups were modified in the last month. How can the user see if a change was made?
+A. Use Amazon EC2 to see if the security group was changed.
+B. Use AWS Identity and Access Management (IAM) to see which user or role changed the security group.
+C. Use AWS CloudTrail to see if the security group was changed.
+D. Use Amazon CloudWatch to see if the security group was changed.
+ANSWER: C
+
+Which service enables customers to audit API calls in their AWS accounts?
+A. AWS CloudTrail 
+B. AWS Trusted Advisor
+C. Amazon Inspector
+D. AWS X-Ray
+Answer: A
+
+Which AWS service should be used to monitor Amazon EC2 instances for CPU and network utilization?
+A. Amazon Inspector
+B. AWS CloudTrail
+C. Amazon CloudWatch
+D. AWS Config
+ANSWER: C
+
+A user wants to deploy a service to the AWS Cloud by using infrastructure-as-code (IaC) principles. Which AWS service can be used to meet this requirement?
+A. AWS Systems Manager
+B. AWS CloudFormation
+C. AWS CodeCommit
+D. AWS Config
+ANSWER: B
+
+A company needs to identify the last time that a specific user accessed the AWS Management Console.Which AWS service will provide this information?
+A. Amazon Cognito
+B. AWS CloudTrail 
+C. Amazon Inspector
+D. Amazon GuardDuty
+Answer: B
+
+A company runs applications that process credit card information. Auditors have asked if the AWS environment has changed since the previous audit. If the AWS environment has changed, the auditors want to know how it has changed. Which AWS services can provide this information? (Choose two.)
+A. AWS Artifact
+B. AWS Trusted Advisor
+C. AWS Config
+D. AWS CloudTrail
+E. AWS Identity and Access Management (IAM)
+Answer: C,D
+
+A company wants to use a template to reliably provision, manage, and update its infrastructure in the AWS Cloud. Which AWS service will meet these requirements?
+A. AWS Lambda
+B. AWS CloudFormation
+C. AWS Fargate
+D. AWS CodeDeploy
+Answer: B
+
+A company needs to perform queries and interactively search and analyze log data. Which AWS service or feature will meet this requirement?
+A. Amazon EventBridge (Amazon CloudWatch Events)
+B. Amazon CloudWatch anomaly detection
+C. Amazon CloudWatch Logs Insights
+D. Amazon CloudWatch Logs streams
+Answer: C
+
+Which AWS service provides the capability to view end-to-end performance metrics and troubleshoot distributed applications?
+A. AWS Cloud9
+B. AWS CodeStar
+C. AWS Cloud Map
+D. AWS X-Ray
+Answer: D
+
+Which AWS service tracks API calls and user activity?
+A. AWS Organizations
+B. AWS Config
+C. Amazon CloudWatch
+D. AWS CloudTrail
+Answer: D
+
+An ecommerce company wants to use Amazon EC2 Auto Scaling to add and remove EC2 instances based on CPU utilization. Which AWS service or feature can initiate an Amazon EC2 Auto Scaling action to achieve this goal?
+A. Amazon Simple Queue Service (Amazon SQS)
+B. Amazon Simple Notification Service (Amazon SNS)
+C. AWS Systems Manager
+D. Amazon CloudWatch alarm
+Answer: D
+
+Which AWS service monitors CPU utilization on Amazon EC2 instances?
+A. AWS CloudTrail
+B. Amazon Inspector
+C. AWS Config
+D. Amazon CloudWatch
+Answer: D
+
+A company needs to report on events that involve the specific AWS services that the company uses. Which AWS service or resource can the company use with Amazon CloudWatch to meet this requirement?
+A. Amazon Inspector
+B. AWS Personal Health Dashboard
+C. AWS Trusted Advisor
+D. AWS CloudTrail logs
+Answer: D
+
+Which service enables customers to audit API calls in their AWS accounts?
+A. AWS CloudTrail  
+B. AWS Trusted Advisor
+C. Amazon Inspector
+D. AWS X-Ray
+Answer: A
+

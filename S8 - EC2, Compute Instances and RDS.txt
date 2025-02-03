@@ -1,0 +1,215 @@
+A user is comparing purchase options for an application that runs on Amazon EC2 and Amazon RDS. The application cannot sustain any interruption. The application experiences a predictable amount of usage, including some seasonal spikes that last only a few weeks at a time. It is not possible to modify the application. Which purchase option meets these requirements MOST cost-effectively?
+A. Review the AWS Marketplace and buy Partial Upfront Reserved Instances to cover the predicted and seasonal load.
+B. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run on Spot Instances.
+C. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run at an On-Demand rate.
+D. Buy Reserved Instances to cover all potential usage that results from the seasonal usage.
+Answer: C
+
+Company wants a cost-effective option when running its applications in an Amazon EC2 instance for short time periods. The applications can be interrupted. Which EC2 instance type will meet these requirements?
+A. Spot Instances
+B. On-Demand Instances
+C. Reserved Instances
+D. Dedicated Instances
+Answer: A
+
+A company is launching an ecommerce application that must always be available. The application will run on Amazon EC2 instances continuously for the next 12 months. What is the MOST cost-effective instance purchasing option that meets these requirements?
+A. Spot Instances
+B. Savings Plans
+C. Dedicated Hosts
+D. On-Demand Instances
+Answer: B
+
+A company wants to ensure that two Amazon EC2 instances are in separate data centers with minimal communication latency between the data centers.How can the company meet this requirement?
+A. Place the EC2 instances in two separate AWS Regions connected with a VPC peering connection.
+B. Place the EC2 instances in two separate Availability Zones within the same AWS Region. 
+C. Place one EC2 instance on premises and the other in an AWS Region. Then connect them by using an AWS VPN connection.
+D. Place both EC2 instances in a placement group for dedicated bandwidth.
+Answer: B
+
+A company has a workload that will run continuously for 1 year. The workload cannot tolerate service interruptions.Which Amazon EC2 purchasing option will be MOST cost-effective?
+A. All Upfront Reserved Instances 
+B. Partial Upfront Reserved Instances
+C. Dedicated Instances
+D. On-Demand Instances
+Answer: B
+
+A company hosts an application on an Amazon EC2 instance. The EC2 instance needs to access several AWS resources, including Amazon S3 and Amazon DynamoDB.What is the MOST operationally efficient solution to delegate permissions?
+A. Create an IAM role with the required permissions. Attach the role to the EC2 instance. 
+B. Create an IAM user and use its access key and secret access key in the application.
+C. Create an IAM user and use its access key and secret access key to create a CLI profile in the EC2 instance
+D. Create an IAM role with the required permissions. Attach the role to the administrative IAM user
+Answer: A
+
+A company launched an Amazon EC2 instance with the latest Amazon Linux 2 Amazon Machine Image (AMI).Which actions can a system administrator take to connect to the EC2 instance? (Choose two.)
+A. Use Amazon EC2 Instance Connect. 
+B. Use a Remote Desktop Protocol (RDP) connection.
+C. Use AWS Batch
+D. Use AWS Systems Manager Session Manager. 
+E. Use Amazon Connect
+Answer: A,D
+
+After selecting an Amazon EC2 Dedicated Host reservation, which pricing option would provide the largest discount?
+A. No upfront payment
+B. Hourly on-demand payment
+C. Partial upfront payment
+D. All upfront payment 
+Answer: D
+
+A company needs an Amazon EC2 instance for a rightsized database server that must run constantly for 1 year.Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+A. Standard Reserved Instance 
+B. Convertible Reserved Instance
+C. On-Demand Instance
+D. Spot Instance
+Answer: A
+
+What are some advantages of using Amazon EC2 instances to host applications in the AWS Cloud instead of on premises? (Choose two.)
+A. EC2 includes operating system patch management.
+B. EC2 integrates with Amazon VPC, AWS CloudTrail, and AWS Identity and Access Management (IAM).
+C. EC2 has a 100% service level agreement (SLA).
+D. EC2 has a flexible, pay-as-you-go pricing model. Most Voted.
+E. EC2 has automatic storage cost optimization.
+Answer: B,D
+
+A company wants to migrate a small website and database quickly from on-premises infrastructure to the AWS Cloud. The company has limited operational knowledge to perform the migration.Which AWS service supports this use case?
+A. Amazon EC2
+B. Amazon Lightsail 
+C. Amazon S3
+D. AWS Lambda
+ANSWER: B
+
+Which AWS service or feature acts as a firewall for Amazon EC2 instances?
+A. Network ACL
+B. Elastic network interface
+C. Amazon VPC
+D. Security group
+ANSWER: D
+
+A company has a database server that is always running. The company hosts the server on Amazon EC2 instances. The instance sizes are suitable for the workload. The workload will run for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+A. Standard Reserved Instances
+B. On-Demand Instances
+C. Spot Instances
+D. Convertible Reserved Instances
+ANSWER: A
+
+Which of the following is a benefit of moving from an on-premises data center to the AWS Cloud?
+A. Compute instances can be launched and terminated as needed to optimize costs. 
+B. Compute costs can be viewed in the AWS Billing and Cost Management console.
+C. Users retain full administrative access to their compute instances.
+D. Users can optimize costs by permanently running enough instances at peak load.
+ANSWER: A
+
+A company needs to deploy applications in the AWS Cloud as quickly as possible. The company also needs to minimize the complexity that is related to the management of AWS resources.Which AWS service should the company use to meet these requirements?
+A. AWS Config
+B. AWS Elastic Beanstalk
+C. Amazon EC2
+D. Amazon Personalize
+Answer: B
+
+A company has a set of databases that are stored on premises. The company wants to bring its existing Microsoft SQL Server licenses when the company moves the databases to run on Amazon EC2 instances. Which EC2 instance purchasing option should the company use to meet these requirements?
+A. Dedicated Instances
+B. Reserved Instances
+C. Dedicated Hosts 
+D. Spot Instances
+Answer: C
+
+Which of the following is a way to use Amazon EC2 Auto Scaling groups to scale capacity in the AWS Cloud?
+A. Scale the number of EC2 instances in or out automatically, based on demand.
+B. Use serverless EC2 instances.
+C. Scale the size of EC2 instances up or down automatically, based on demand.
+D. Transfer unused CPU resources between EC2 instances.
+Answer: A
+
+A company needs a low-code, visual workflow service that developers can use to build distributed applications. Which AWS service is designed to meet these requirements?
+A. AWS Step Functions
+B. AWS Config
+C. AWS Lambda
+D. Amazon CloudWatch
+Answer: A
+
+A company wants to deploy a Docker application to the AWS Cloud. However, the company does not want to manage the underlying servers. Which combination of AWS services should the company use to meet these requirements? (Choose two.)
+A. Amazon EC2
+B. Amazon EC2 Auto Scaling
+C. AWS Elastic Beanstalk
+D. Amazon CloudFront
+E. AWS Fargate Most Voted
+Answer: C,E
+
+A company plans to migrate its custom marketing application and order-processing application to AWS. The company needs to deploy the applications on different types of instances with various configurations of CPU, memory, storage, and networking capacity. Which AWS service should the company use to meet these requirements?
+A. AWS Lambda
+B. Amazon Cognito
+C. Amazon Athena
+D. Amazon EC2
+Answer: D
+
+A company owns per-core software licenses. Which Amazon EC2 instance purchasing option must the company use for this license type?
+A. Reserved Instances
+B. Dedicated Hosts 
+C. Spot Instances
+D. Dedicated Instances
+Answer: B
+
+A company's IT team is managing MySQL database server clusters. The IT team has to patch the database and take backup snapshots of the data in the clusters. The company wants to move this workload to AWS so that these tasks will be completed automatically. What should the company do to meet these requirements?
+A. Deploy MySQL database server clusters on Amazon EC2 instances.
+B. Use Amazon RDS with a MySQL database. 
+C. Use an AWS CloudFormation template to deploy MySQL database servers on Amazon EC2 instances.
+D. Migrate all the MySQL database data to Amazon S3
+Answer: B
+
+Which AWS services are serverless? (Choose two.)
+A. AWS Fargate 
+B. Amazon Managed Streaming for Apache Kafka
+C. Amazon EMR
+D. Amazon S3 
+E. Amazon EC2
+Answer: AD
+
+Which task is the responsibility of AWS, according to the AWS shared responsibility model?
+A. Apply guest operating system patches to Amazon EC2 instances.
+B. Provide monitoring of human resources information management (HRIM) systems.
+C. Perform automated backups of Amazon RDS instances.
+D. Optimize the costs of running AWS services.
+Answer: C
+
+A company needs to deploy a PostgreSQL database into Amazon RDS. The database must be highly available and fault tolerant. Which AWS solution should the company use to meet these requirements?
+A. Amazon RDS with a single Availability Zone
+B. Amazon RDS snapshots
+C. Amazon RDS with multiple Availability Zones
+D. AWS Database Migration Service (AWS DMS)
+Answer: C
+
+A company wants its employees to have access to virtual desktop infrastructure to securely access company-provided desktops through the employees' personal devices. Which AWS service should the company use to meet these requirements?
+A. Amazon AppStream 2.0
+B. AWS AppSync
+C. Amazon FSx for Windows File Server
+D. Amazon WorkSpaces
+Answer: D
+
+A company needs to run an application on Amazon EC2 instances. The instances cannot be interrupted at any time. The company needs an instance purchasing option that requires no long-term commitment or upfront payment. Which instance purchasing option will meet these requirements MOST cost-effectively?
+A. On-Demand Instances
+B. Spot Instances
+C. Dedicated Hosts
+D. Reserved Instances
+Answer: A
+
+Which task can a user complete by using AWS Identity and Access Management (IAM)?
+A. Validate JSON syntax from an application configuration file.
+B. Analyze logs from an Amazon API Gateway call.
+C. Filter traffic to or from an Amazon EC2 instance.
+D. Grant permissions to applications that run on Amazon EC2 instances.
+Answer: D
+
+A company has existing software licenses that it wants to bring to AWS, but the licensing model requires licensing physical cores. How can the company meet this requirement in the AWS Cloud?
+A. Launch an Amazon EC2 instance with default tenancy.
+B. Launch an Amazon EC2 instance on a Dedicated Host. 
+C. Create an On-Demand Capacity Reservation.
+D. Purchase Dedicated Reserved Instances.
+Answer: B
+
+Which of the following are AWS compute services? (Choose two.)
+A. Amazon Lightsail 
+B. AWS Systems Manager
+C. AWS CloudFormation
+D. AWS Batch 
+E. Amazon Inspector
+Answer: AD
+

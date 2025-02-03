@@ -1,0 +1,242 @@
+A company wants to migrate its workloads to AWS, but it lacks expertise in AWS Cloud computing. Which AWS service or feature will help the company with its migration?
+A. AWS Trusted Advisor
+B. AWS Consulting Partners
+C. AWS Artifacts
+D. AWS Managed Services
+ANSWER: B
+
+Which task requires using AWS account root user credentials?
+A. Viewing billing information
+B. Changing the AWS Support plan
+C. Starting and stopping Amazon EC2 instances
+D. Opening an AWS Support case
+ANSWER: B
+
+Which of the following are included in AWS Enterprise Support? (Choose two.)
+A. AWS technical account manager (TAM)
+B. AWS partner-led support
+C. AWS Professional Services
+D. Support of third-party software integration to AWS
+E. 5-minute response time for critical issues
+ANSWER: A,D
+
+What does the AWS Concierge Support team provide?
+A. A technical expert dedicated to the user
+B. A primary point of contact for AWS Billing and AWS Support 
+C. A partner to help provide scaling guidance for an event launch
+D. A dedicated AWS staff member who reviews the user's application architecture
+Answer: B
+
+A global media company uses AWS Organizations to manage multiple AWS accounts. Which AWS service or feature can the company use to limit the access to AWS services for member accounts?
+A. AWS Identity and Access Management (IAM)
+B. Service control policies (SCPs)
+C. Organizational units (OUs)
+D. Access control lists (ACLs)
+ANSWER: B
+
+A company wants to limit its employees' AWS access to a portfolio of predefined AWS resources. Which AWS solution should the company use to meet this requirement?
+A. AWS Config
+B. AWS software development kits (SDKs)
+C. AWS Service Catalog
+D. AWS AppSync
+ANSWER: C
+
+A company wants to run production workloads on AWS. The company needs concierge service, a designated AWS technical account manager (TAM), and technical support that is available 24 hours a day, 7 days a week. Which AWS Support plan will meet these requirements?
+A. AWS Basic Support
+B. AWS Enterprise Support
+C. AWS Business Support
+D. AWS Developer Support
+ANSWER: B
+
+Which AWS service provides a feature that can be used to proactively monitor and plan for the service quotas of AWS resources?
+A. AWS CloudTrail
+B. AWS Personal Health Dashboard
+C. AWS Trusted Advisor 
+D. Amazon CloudWatch 
+ANSWER: C
+
+A company is preparing to launch a new web store that is expected to receive high traffic for an upcoming event. The web store runs only on AWS, and the company has an AWS Enterprise Support plan. Which AWS resource will provide guidance about how the company should scale its architecture and operational support during the event?
+A. AWS Abuse team
+B. The designated AWS technical account manager (TAM)
+C. AWS infrastructure event management
+D. AWS Professional Services
+ANSWER: C
+
+A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of AWS accounts, apply service control policies (SCPs), and simplify billing processes. Which AWS service or tool should the company use to meet these requirements?
+A. AWS Organizations
+B. Cost Explorer
+C. AWS Budgets
+D. AWS Trusted Advisor
+ANSWER: A
+
+Service control policies (SCPs) manage permissions for which of the following?
+A. Availability Zones
+B. AWS Regions
+C. AWS Organizations
+D. Edge locations
+ANSWER: C
+
+Which benefit is included with an AWS Enterprise Support plan?
+A. AWS Partner Network (APN) support at no cost.
+B. Designated support from an AWS technical account manager (TAM)
+C. On-site support from AWS engineers
+D. AWS managed compliance as code with AWS Config
+ANSWER: B
+
+A user is able to set up a master payer account to view consolidated billing reports through:
+A. AWS Budgets.
+B. Amazon Macie.
+C. Amazon QuickSight.
+D. AWS Organizations.
+Answer: D
+
+Which AWS service of tool helps to centrally manage billing and allow controlled access to resources across AWS accounts?
+A. AWS Identity and Access Management (IAM)
+B. AWS Organizations 
+C. Cost Explorer
+D. AWS Budgets
+Answer: B
+
+A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances. Which AWS service or tool should the company use to meet these requirements?
+A. AWS Systems Manager
+B. Cost Explorer
+C. AWS Trusted Advisor
+D. AWS Organizations
+Answer: D
+
+A company is considering a migration from on premises to the AWS Cloud. The company's IT team needs to offload support of the workload. What should the IT team do to accomplish this goal?
+A. Use AWS Managed Services to provision, run, and support the company infrastructure.
+B. Build hardware refreshes into the operational calendar to ensure availability.
+C. Use Amazon Elastic Container Service (Amazon ECS) on Amazon EC2 instances.
+D. Overprovision compute capacity for seasonal events and traffic spikes to prevent downtime.
+Answer: A
+
+Which tasks require use of the AWS account root user? (Choose two.)
+A. Changing an AWS Support plan
+B. Modifying an Amazon EC2 instance type
+C. Grouping resources in AWS Systems Manager
+D. Running applications in Amazon Elastic Kubernetes Service (Amazon EKS)
+E. Closing an AWS account
+Answer: A,E
+
+A company discovered unauthorized access to resources in its on-premises data center. Upon investigation, the company found that the requests originated from resource hosted on AWS.Which AWS team should the company contact to report this issue?
+A. AWS Customer Service team
+B. AWS Sales team
+C. AWS Abuse team
+D. AWS Technical Support team
+Answer: C
+
+A company needs real-time guidance to follow AWS best practices to save money, improve system performance, and close security gaps. Which AWS service should the company use?
+A. Amazon GuardDuty
+B. AWS Trusted Advisor
+C. AWS Management Console
+D. AWS Systems Manager
+Answer: B
+
+A company is migrating to the AWS Cloud. The company requires consultative review and guidance for its applications during the migration. After the migration is complete, the company requires a response within 30 minutes if business-critical systems go down. Which AWS Support plans meet these requirements? (Choose two.)
+A. AWS Enterprise Support 
+B. AWS Enterprise On-Ramp Support 
+C. AWS Developer Support
+D. AWS Basic Support
+E. AWS Business Support
+Answer: A,B
+
+A company needs an AWS Support plan that provides programmatic case management through the AWS Support API. Which support plan will meet this requirement MOST cost-effectively?
+A. AWS Business Support Most Voted
+B. AWS Basic Support
+C. AWS Developer Support
+D. AWS Enterprise Support
+Answer: A
+
+A user has an AWS account with a Business-level AWS Support plan and needs assistance with handling a production service disruption. Which action should the user take?
+A. Contact the dedicated AWS technical account manager (TAM).
+B. Contact the dedicated AWS Concierge Support team.
+C. Open a business-critical system down support case.
+D. Open a production system down support case
+Answer: D
+
+Which AWS service or feature enables users to get one bill and easily track charges for multiple AWS accounts?
+A. AWS Organizations
+B. Cost Explorer
+C. AWS Trusted Advisor
+D. AWS Management Console
+Answer: A
+
+Which AWS service provides alerts when an AWS event may impact a company's AWS resources?
+A. AWS Personal Health Dashboard Most Voted
+B. AWS Service Health Dashboard
+C. AWS Trusted Advisor
+D. AWS Infrastructure Event Management
+Answer: A
+
+A company is starting to build its infrastructure in the AWS Cloud. The company wants access to technical support during business hours. The company also wants general architectural guidance as teams build and test new applications. Which AWS Support plan will meet these requirements at the LOWEST cost?
+A. AWS Basic Support
+B. AWS Developer Support 
+C. AWS Business Support
+D. AWS Enterprise Support
+Answer: B
+
+A company needs to evaluate its AWS environment and provide best practice recommendations in five categories: cost, performance, service limits, fault tolerance, and security. Which AWS service can the company use to meet these requirements?
+A. AWS Shield
+B. AWS WAF
+C. AWS Trusted Advisor
+D. AWS Service Catalog
+Answer: C
+
+Which AWS service, feature, or tool uses machine learning to continuously monitor cost and usage for unusual cloud spending?
+A. Amazon Lookout for Metrics
+B. AWS Budgets
+C. Amazon CloudWatch
+D. AWS Cost Anomaly Detection
+Answer: D
+
+A company wants to migrate to AWS and use the same security software it uses on premises. The security software vendor offers its security software as a service on AWS. Where can the company purchase the security solution?
+A. AWS Partner Solutions Finder
+B. AWS Support Center
+C. AWS Management Console
+D. AWS Marketplace
+Answer: D
+
+A company wants to run production workloads on AWS. The company wants access to technical support from engineers 24 hours a day, 7 days a week. The company also wants access to the AWS Health API and contextual architectural guidance for business use cases. The company has a strong IT support team and does not need concierge support. Which AWS Support plan will meet these requirements at the LOWEST cost?
+A. AWS Basic Support
+B. AWS Developer Support
+C. AWS Business Support 
+D. AWS Enterprise Support
+Answer: C
+
+Which of the following are shared controls that apply to both AWS and the customer, according to the AWS shared responsibility model? (Choose two.)
+A. Resource configuration management 
+B. Network data integrity
+C. Employee awareness and training 
+D. Physical and environmental security
+E. Replacement and disposal of disk drives
+Answer: AC
+
+What is the LEAST expensive AWS Support plan that contains a full set of AWS Trusted Advisor best practice checks?
+A. AWS Enterprise Support
+B. AWS Business Support 
+C. AWS Developer Support
+D. AWS Basic Support
+Answer: B
+
+Which task can a company complete by using AWS Organizations?
+A. Track application deployment statuses globally.
+B. Remove unused and underutilized AWS resources across all accounts.
+C. Activate DDoS protection across all accounts.
+D. Share pre-purchased Amazon EC2 resources across accounts
+Answer: D
+
+A company has a complex AWS architecture. The company needs assistance from a dedicated technical professional who can suggest strategies regarding incidents, trade-offs, support, and risk management. Which AWS Support plan will provide the required support?
+A. AWS Business Support
+B. AWS Enterprise Support  
+C. AWS Developer Support
+D. AWS Basic Support
+Answer: B
+
+A company with AWS Enterprise Support needs help understanding its monthly AWS bill and wants to implement billing best practices. Which AWS tool or resource is available to accomplish these goals?
+A. Resource tagging
+B. AWS Concierge Support team 
+C. AWS Abuse team
+D. AWS Support
+Answer: B
+

@@ -1,0 +1,70 @@
+A company plans to create a data lake that uses Amazon S3. Which factor will have the MOST effect on cost?
+A. The selection of S3 storage tiers
+B. Charges to transfer existing data into Amazon S3
+C. The addition of S3 bucket policies
+D. S3 ingest fees for each request
+Answer: A
+
+What is the total amount of storage offered by Amazon S3?
+A. 100MB
+B. 5 GB
+C. 5 TB
+D. Unlimited 
+Answer: D
+
+A company wants to use Amazon S3 to store its legacy data. The data is rarely accessed. However, the data is critical and cannot be recreated.The data needs to be available for retrieval within seconds.Which S3 storage class meets these requirements MOST cost-effectively?
+A. S3 Standard
+B. S3 One Zone-Infrequent Access (S3 One Zone-IA)
+C. S3 Standard-Infrequent Access (S3 Standard-IA) 
+D. S3 Glacier
+Answer: C
+
+Which AWS service uses machine learning to help discover, monitor, and protect sensitive data that is stored in Amazon S3 buckets?
+A. AWS Shield
+B. Amazon Macie
+C. AWS Network Firewall
+D. Amazon Cognito
+ANSWER: B
+
+A company is launching an application in the AWS Cloud. The application will use Amazon S3 storage. A large team of researchers will have shared access to the data. The company must be able to recover data that is accidentally overwritten or deleted. Which S3 feature should the company turn on to meet this requirement?
+A. Server access logging
+B. S3 Versioning
+C. S3 Lifecycle rules
+D. Encryption in transit and at rest
+ANSWER: B
+
+A user is storing objects in Amazon S3. The user needs to restrict access to the objects to meet compliance obligations. What should the user do to meet this requirement?
+A. Use AWS Secrets Manager.
+B. Tag the objects in the S3 bucket.
+C. Use security groups.
+D. Use network ACLs.
+ANSWER: B
+
+Which of the following describes some of the core functionality of Amazon S3?
+A. Amazon S3 is a high-performance block storage service that is designed for use with Amazon EC2.
+B. Amazon S3 is an object storage service that provides high-level performance, security, scalability, and data availability. 
+C. Amazon S3 is a fully managed, highly reliable, and scalable file storage system that is accessible over the industry-standard SMB protocol.
+D. Amazon S3 is a scalable, fully managed elastic NFS for use with AWS Cloud services and on-premises resources.
+Answer: B
+
+A bank needs to store recordings of calls made to its contact center for 6 years. The recordings must be accessible within 48 hours from the time they are requested. Which AWS service will provide a secure and cost-effective solution for retaining these files?
+A. Amazon DynamoDB
+B. Amazon S3 Glacier 
+C. Amazon Connect
+D. Amazon ElastiCache
+Answer: B
+
+Which AWS service is used to host static websites?
+A. Amazon S3 
+B. Amazon Elastic Block Store (Amazon EBS)
+C. AWS CloudFormation
+D. Amazon Elastic File System (Amazon EFS)
+Answer: A
+
+A company needs to identify personally identifiable information (PII), such as credit card numbers, from data that is stored in Amazon S3. Which AWS service should the company use to meet this requirement?
+A. Amazon Inspector
+B. AWS Shield
+C. Amazon GuardDuty
+D. Amazon Macie
+Answer: D
+

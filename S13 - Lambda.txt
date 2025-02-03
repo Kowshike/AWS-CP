@@ -1,0 +1,51 @@
+Which duties are the responsibility of a company that is using AWS Lambda? (Choose two.)
+A. Security inside of code
+B. Selection of CPU resources
+C. Patching of operating system
+D. Writing and updating of code
+E. Security of underlying infrastructure
+Answer: A,D
+
+A company wants to migrate a critical application to AWS. The application has a short runtime. The application is invoked by changes in data or by shifts in system state. The company needs a compute solution that maximizes operational efficiency and minimizes the cost of running the application. Which AWS solution should the company use to meet these requirements?
+A. Amazon EC2 On-Demand Instances
+B. AWS Lambda
+C. Amazon EC2 Reserved Instances
+D. Amazon EC2 Spot Instances
+Answer: B
+
+Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?
+A. Use a monolithic design.
+B. Design for automation.
+C. Design for single points of failure.
+D. Loosely couple components.
+Answer: D
+
+A company needs to simultaneously process hundreds of requests from different users. Which combination of AWS services should the company use to build an operationally efficient solution?
+A. Amazon Simple Queue Service (Amazon SQS) and AWS Lambda
+B. AWS Data Pipeline and Amazon EC2
+C. Amazon Kinesis and Amazon Athena
+D. AWS Amplify and AWS AppSync
+Correct Answer: A
+
+Under the AWS shared responsibility model, which task is the customer's responsibility when managing AWS Lambda functions?
+A. Creating versions of Lambda functions 
+B. Maintaining server and operating systems
+C. Scaling Lambda resources according to demand
+D. Updating the Lambda runtime environment
+Answer: A
+
+What is a benefit of using AWS serverless computing?
+A. Application deployment and management are not required.
+B. Application security will be fully managed by AWS.
+C. Monitoring and logging are not needed.
+D. Management of infrastructure is offloaded to AWS
+Answer: D
+
+Which of the following are characteristics of a serverless application that runs in the AWS Cloud? (Choose two.)
+A. Users must manually configure Amazon EC2 instances.
+B. Users have a choice of operating systems.
+C. The application has built-in fault tolerance.  
+D. Users can run Amazon EC2 Spot Instances.
+E. The application can scale based on demand
+Answer: CE
+

@@ -1,0 +1,95 @@
+Which AWS service or feature allows users to connect with and deploy AWS services programmatically?
+A. AWS Management Console
+B. AWS Cloud9
+C. AWS CodePipeline
+D. AWS software development kits (SDKs)
+ANSWER: D
+
+Which AWS service helps developers use loose coupling and reliable messaging between microservices?
+A. Elastic Load Balancing
+B. Amazon Simple Notification Service (Amazon SNS)
+C. Amazon CloudFront
+D. Amazon Simple Queue Service (Amazon SQS) 
+ANSWER: D
+
+A company needs to install an application in a Docker container. Which AWS service eliminates the need to provision and manage the container hosts?
+A. AWS Fargate
+B. Amazon FSx for Windows File Server
+C. Amazon Elastic Container Service (Amazon ECS) Most Voted
+D. Amazon EC2
+ANSWER: A
+
+A developer is working on enhancing applications at AWS. The developer needs a service that can securely host GitHub-based code, repositories,and version controls.Which AWS service should the developer use?
+A. AWS CodeStar
+B. Amazon CodeGuru
+C. AWS CodeCommit
+D. AWS CodePipeline
+ANSWER: C
+
+A developer wants to deploy an application on a container-based service. The service must automatically provision and manage the backend instances. The service must provision only the necessary resources. Which AWS service will meet these requirements?
+A. Amazon EC2
+B. Amazon Lightsai
+C. Amazon Elastic Kubernetes Service (Amazon EKS)
+D. AWS Fargate
+Answer: D
+
+Which AWS service provides intelligent recommendations to improve code quality and identify an application's most expensive lines of code?
+A. Amazon CodeGuru
+B. AWS CodeStar
+C. AWS CodeCommit
+D. AWS CodeDeploy
+Answer: A
+
+A company needs to store code in a version control system. The company also needs to continually deploy updated code through a series of automated steps (build, test, package, and deploy). Which combination of AWS services will meet these requirements? (Choose two.)
+A. AWS CloudFormation
+B. AWS CodeCommit 
+C. AWS Control Tower
+D. AWS Elastic Beanstalk
+E. AWS CodePipoline 
+Answer: B,E
+
+Which AWS service is a fully hosted version control service?
+A. AWS CodeCommit Most Voted
+B. AWS CodeBuild
+C. AWS CodeDeploy
+D. AWS CodeStar
+Answer: A
+
+A company is creating a document that defines the operating system patch routine for all the company's systems.
+Which AWS resources should the company include in this document? (Choose two.)
+A. Amazon EC2 instances 
+B. AWS Lambda functions
+C. AWS Fargate tasks
+D. Amazon RDS instances
+E. Amazon Elastic Container Service (Amazon ECS) instances 
+Answer: AE
+
+Which AWS service can a company use to store and manage Docker images?
+A. Amazon DynamoDB
+B. Amazon Kinesis Data Streams
+C. Amazon Elastic Container Registry (Amazon ECR)
+D. Amazon Elastic File System (Amazon EFS)
+Answer: C
+
+A company wants to host a private version control system for its application code in the AWS Cloud.
+Which AWS service should the company use to meet this requirement?
+A. AWS CodePipeline
+B. AWS CodeStar
+C. AWS CodeCommit 
+D. AWS CodeDeploy
+Answer: C
+
+A company wants the ability to quickly upload its applications to the AWS Cloud without needing to provision underlying resources. Which AWS service will meet these requirements?
+A. AWS CloudFormation
+B. AWS Elastic Beanstalk
+C. AWS CodeDeploy
+D. AWS CodeCommit
+Answer: B
+
+A company wants to set up an entire development and continuous delivery toolchain for coding, building, testing, and deploying code. Which AWS service will meet these requirements?
+A. Amazon CodeGuru
+B. AWS CodeStar  
+C. AWS CodeCommit
+D. AWS CodeDeploy
+Answer: B
+

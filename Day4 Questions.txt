@@ -1,0 +1,139 @@
+A company wants to migrate a critical application to AWS. The application has a short runtime. The application is invoked by changes in data or by shifts in system state. The company needs a compute solution that maximizes operational efficiency and minimizes the cost of running the application. Which AWS solution should the company use to meet these requirements?
+A. Amazon EC2 On-Demand Instances
+B. AWS Lambda
+C. Amazon EC2 Reserved Instances
+D. Amazon EC2 Spot Instances
+ANSWER: B
+
+Which architecture design principle describes the need to isolate failures between dependent components in the AWS Cloud?
+A. Use a monolithic design.
+B. Design for automation.
+C. Design for single points of failure.
+D. Loosely couple components.
+ANSWER: D
+
+A company needs to simultaneously process hundreds of requests from different users. Which combination of AWS services should the company use to build an operationally efficient solution?
+A. Amazon Simple Queue Service (Amazon SQS) and AWS Lambda
+B. AWS Data Pipeline and Amazon EC2
+C. Amazon Kinesis and Amazon Athena
+D. AWS Amplify and AWS AppSync
+ANSWER: A
+
+Under the AWS shared responsibility model, which task is the customer's responsibility when managing AWS Lambda functions?
+A. Creating versions of Lambda functions 
+B. Maintaining server and operating systems
+C. Scaling Lambda resources according to demand
+D. Updating the Lambda runtime environment
+ANSWER: A
+
+A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software.Which AWS service can be used to accomplish this?
+A. Amazon RDS
+B. Amazon DynamoDB 
+C. Amazon Aurora
+D. Amazon Redshift
+ANSWER: B
+
+A company would like to host its MySQL databases on AWS and maintain full control over the operating system, database installation, and configuration.Which AWS service should the company use to host the databases?
+A. Amazon RDS
+B. Amazon EC2 
+C. Amazon DynamoDB
+D. Amazon Aurora
+ANSWER: B
+
+According to the AWS shared responsibility model, what responsibility does a customer have when using Amazon RDS to host a database?
+A. Manage connections to the database
+B. Install Microsoft SQL Server
+C. Design encryption-at-rest strategies
+D. Apply minor database patches
+ANSWER: A
+
+A company is using an Amazon RDS DB instance for an application that is deployed in the AWS Cloud. The company needs regular patching of the operating system of the server where the DB instance runs.What is the company's responsibility in this situation, according to the AWS shared responsibility model?
+A. Open a support case to obtain administrative access to the server so that the company can patch the DB instance operating system.
+B. Open a support case and request that AWS patch the DB instance operating system.
+C. Use administrative access to the server, and apply the operating system patches during the regular maintenance window that is defined for the DB instance.
+D. Establish a regular maintenance window that tells AWS when to patch the DB instance operating system.
+ANSWER: D
+
+Which task does AWS perform automatically?
+A. Encrypt data that is stored in Amazon DynamoDB. 
+B. Patch Amazon EC2 instances.
+C. Encrypt user network traffic.
+D. Create TLS certificates for users' websites.
+ANSWER: A
+
+Which AWS service can be used to decouple applications?
+A. AWS Config
+B. Amazon Simple Queue Service (Amazon SQS)
+C. AWS Batch
+D. Amazon Simple Email Service (Amazon SES)
+ANSWER: B
+
+A development team wants to publish and manage web services that provide REST APIs. Which AWS service will meet this requirement?
+A. AWS App Mesh
+B. Amazon API Gateway
+C. Amazon CloudFront
+D. AWS Cloud Map
+ANSWER: B
+
+Which AWS service or feature is used to send both text and email messages from distributed applications?
+A. Amazon Simple Notification Service (Amazon SNS) 
+B. Amazon Simple Email Service (Amazon SES)
+C. Amazon CloudWatch alerts
+D. Amazon Simple Queue Service (Amazon SQS)
+ANSWER: A
+
+A company needs to set up a petabyte-scale data warehouse in the AWS Cloud. Which AWS service will meet this requirement?
+A. Amazon DynamoDB
+B. Amazon RDS
+C. Amazon Redshift
+D. Amazon ElastiCache
+ANSWER: A
+
+A company is planning to run a global marketing application in the AWS Cloud. The application will feature videos that can be viewed by users. The company must ensure that all users can view these videos with low latency. Which AWS service should the company use to meet this requirement?
+A. AWS Auto Scaling
+B. Amazon Kinesis Video Streams
+C. Elastic Load Balancing
+D. Amazon CloudFront
+ANSWER: D
+
+Which AWS service or feature can be used to create a private connection between an on-premises workload and an AWS Cloud workload?
+A. Amazon Route 53
+B. Amazon Macie
+C. AWS Direct Connect Most Voted
+D. AWS PrivateLink
+ANSWER: C
+
+Which AWS service is a highly available and scalable DNS web service?
+A. Amazon VPC
+B. Amazon CloudFront
+C. Amazon Route 53
+D. Amazon Connect
+ANSWER: C
+
+A large enterprise with multiple VPCs in several AWS Regions around the world needs to connect and centrally manage network connectivity between its VPCs. Which AWS service or feature meets these requirements?
+A. AWS Direct Connect
+B. AWS Transit Gateway
+C. AWS Site-to-Site VPN
+D. VPC endpoints
+ANSWER: B
+
+Which action will provide documentation to help a company evaluate whether its use of the AWS Cloud is compliant with local regulatory standards?
+A. Running Amazon GuardDuty
+B. Using AWS Artifac
+C. Creating an AWS Support ticket
+D. Evaluating AWS CloudTrail logs
+ANSWER: B
+
+What is a benefit of using AWS serverless computing?
+A. Application deployment and management are not required.
+B. Application security will be fully managed by AWS.
+C. Monitoring and logging are not needed.
+D. Management of infrastructure is offloaded to AWS
+ANSWER: D
+
+Which AWS service enables the decoupling and scaling of applications?
+A. Amazon Simple Queue Service (Amazon SQS)
+B. AWS Outposts
+C. Amazon S3
+D. Amazon Simple Email Service (Amazon SES
+ANSWER: A

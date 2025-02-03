@@ -1,0 +1,126 @@
+A company wants to review its monthly costs of using Amazon EC2 and Amazon RDS for the past year. Which AWS service or tool provides this information?
+A. AWS Trusted Advisor
+B. Cost Explorer
+C. Amazon Forecast
+D. Amazon CloudWatch
+Answer: B
+
+Which AWS service or feature can a company use to determine which business unit is using specific AWS resources?
+A. Cost allocation tags
+B. Key pairs
+C. Amazon Inspector
+D. AWS Trusted Advisor
+Answer: A
+
+A company plans to launch an application that will run in multiple locations within the United States. The company needs to identify the two AWS Regions where the application can operate at the lowest price. Which AWS service or feature should the company use to determine the Regions that offer the lowest price?
+A. Cost Explorer
+B. AWS Budgets
+C. AWS Trusted Adviso
+D. AWS Pricing Calculator
+ANSWER: D
+
+A company is planning an infrastructure deployment to the AWS Cloud. Before the deployment, the company wants a cost estimate for running the infrastructure.Which AWS service or feature can provide this information?
+A. Cost Explorer
+B. AWS Trusted Advisor
+C. AWS Cost and Usage Report
+D. AWS Pricing Calculator
+Answer: D
+
+Which AWS service or tool can a company use to visualize, understand, and manage AWS spending and usage over time?
+A. AWS Trusted Advisor
+B. Amazon CloudWatch
+C. Cost Explorer
+D. AWS Budgets
+Answer: C
+
+A company needs to graphically visualize AWS billing and usage over time. The company also needs information about its AWS monthly costs. Which AWS Billing and Cost Management tool provides this data in a graphical format?
+A. AWS Bills
+B. Cost Explorer
+C. AWS Cost and Usage Report
+D. AWS Budgets
+ANSWER: B
+
+A company has refined its workload to use specific AWS services to improve efficiency and reduce cost.Which best practice for cost governance does this example show?
+A. Resource controls
+B. Cost allocation
+C. Architecture optimization 
+D. Tagging enforcement
+ANSWER: C
+
+A company needs to generate reports that can break down cloud costs by product, by company-defined tags, and by hour, day, and month. Which AWS tool should the company use to meet these requirements?
+A. Reserved Instance utilization and coverage reports
+B. Savings Plans utilization reports
+C. AWS Budgets reports
+D. AWS Cost and Usage Reports
+Answer: D
+
+A company is moving multiple applications to a single AWS account. The company wants to monitor the AWS Cloud costs incurred by each application.What can the company do to meet this requirement?
+A. Set up invoiced billing.
+B. Use AWS Artifact.
+C. Set budgets in Cost Explorer.
+D. Create cost allocation tags. 
+ANSWER: D
+
+A company is using the AWS Free Tier for several AWS services for an application. What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?
+A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.
+B. AWS Support will contact the company to set up standard service charges.
+C. The company will be charged for the services it consumed during the Free Tier period, plus additional charges for service consumption after the Free Tier period.
+D. The company's AWS account will be frozen and can be restarted after a payment plan is established.
+ANSWER: A
+
+A company has several departments. Each department has its own AWS accounts for its applications. The company wants all AWS costs on a single invoice to simplify payment, but the company wants to know the costs that each department is incurring. Which AWS tool or feature will provide this functionality?
+A. AWS Cost and Usage Reports
+B. Consolidated billing
+C. Savings Plans
+D. AWS Budgets
+ANSWER: B
+
+A company runs its workloads on premises. The company wants to forecast the cost of running a large application on AWS. Which AWS service or tool can the company use to obtain this information?
+A. AWS Pricing Calculator
+B. AWS Budgets
+C. AWS Trusted Advisor
+D. Cost Explorer
+ANSWER: A
+
+How does consolidated billing help reduce costs for a company that has multiple AWS accounts?
+A. It aggregates usage across accounts so that the company can reach volume discount thresholds sooner
+B. It offers an additional 5% discount on purchases of All Upfront Reserved Instances.
+C. It provides a simplified billing invoice that the company can process more quickly than a standard invoice
+D. It gives AWS resellers the ability to bill their customers for usage.
+Answer: A
+
+Which AWS Organizations feature can be used to track charges across multiple accounts and report the combined cost?
+A. Service control policies (SCPs)
+B. Cost Explorer
+C. Consolidated billing 
+D. AWS Identity and Access Management (IAM)
+Answer: C
+
+Which AWS service or tool can a company set up to send notifications that a custom spending threshold has been reached or exceeded?
+A. AWS Budgets 
+B. AWS Trusted Advisor
+C. AWS CloudTrail
+D. AWS Support
+Answer: A
+
+A company wants to forecast future costs and usage of AWS resources based on past consumption. Which AWS service or tool will provide this forecast?
+A. AWS Cost and Usage Report
+B. Amazon Forecast
+C. AWS Pricing Calculator
+D. Cost Explorer
+Answer: D
+
+A company needs to label its AWS resources so that the company can categorize and track costs. What should the company do to meet this requirement?
+A. Use cost allocation tags.
+B. Use AWS Identity and Access Management (IAM).
+C. Use AWS Organizations.
+D. Use the AWS Cost Management coverage report.
+Answer: A
+
+A company uses Amazon EC2 instances to run its web application. The company uses On-Demand Instances and Spot Instances. The company needs to visualize its monthly spending on both types of instances. Which AWS service or feature will meet this requirement?
+A. AWS Cost Explorer
+B. AWS Budgets
+C. Amazon CloudWatch
+D. AWS Cost Categories
+Answer: A
+

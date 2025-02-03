@@ -1,0 +1,64 @@
+A company needs steady and predictable performance from its Amazon EC2 instances at the lowest possible cost. The company also needs the ability to scale resources to ensure that it has the right resources available at the right time. Which AWS service or resource will meet these requirements?
+A. Amazon CloudWatch
+B. Application Load Balance
+C. AWS Batch
+D. Amazon EC2 Auto Scaling
+Answer: D
+
+A company has a single Amazon EC2 instance. The company wants to adopt a highly available architecture. What can the company do to meet this requirement?
+A. Scale vertically to a larger EC2 instance size.
+B. Scale horizontally across multiple Availability Zones.
+C. Purchase an EC2 Dedicated Instance.
+D. Change the EC2 instance family to a compute optimized instance.
+Answer: B
+
+An online retail company wants to migrate its on-premises workload to AWS. The company needs to automatically handle a seasonal workload increase in a cost- effective manner.Which AWS Cloud features will help the company meet this requirement? (Choose two.)
+A. Cross-Region workload deployment
+B. Pay-as-you-go pricing 
+C. Built-in AWS CloudTrail audit capabilities
+D. Auto Scaling policies 
+E. Centralized logging
+ANSWER: B,D
+
+A company is using Amazon EC2 Auto Scaling to scale its Amazon EC2 instances. Which benefit of the AWS Cloud does this example illustrate?
+A. High availability 
+B. Elasticity 
+C. Reliability
+D. Global reach
+Answer: B
+
+An ecommerce company has been monitoring usage of its online store that is hosted on a fleet of Amazon EC2 instances. Surges in traffic occur every weekend day at the same time and last for approximately 4 hours. Which AWS service should the company use to ensure that there are enough instances to meet the surges in demand?
+A. AWS Lambda
+B. Amazon EventBridge (Amazon CloudWatch Events)
+C. Elastic Load Balancing (ELB)
+D. Amazon EC2 Auto Scaling
+Answer: D
+
+A company wants to set up a Domain Name System (DNS) record for its application with a failover routing policy that is based on health checks. Which AWS service or resource should the company use to achieve this goal?
+A. Amazon Connect
+B. Application Load Balancer
+C. Amazon Route 53
+D. AWS WAF
+Answer: C
+
+An ecommerce company has deployed a new web application on Amazon EC2 instances. The company wants to distribute incoming HTTP traffic evenly across all running instances. Which AWS service or resource will meet this requirement?
+A. Amazon EC2 Auto Scaling
+B. Application Load Balancer 
+C. Gateway Load Balancer
+D. Network Load Balancer
+Answer: B
+
+A company deployed an application on an Amazon EC2 instance. The application ran as expected for 6 months in the past week, users have reported latency issues. A system administrator found that the CPU utilization was at 100% during business hours. The company wants a scalable solution to meet demand. Which AWS service or feature should the company use to handle the load for its application during periods of high demand?
+A. Auto Scaling groups 
+B. AWS Global Accelerator
+C. Amazon Route 53
+D. An Elastic IP address
+Answer: A
+
+A company needs steady and predictable performance from its Amazon EC2 instances at the lowest possible cost. The company also needs the ability to scale resources to ensure that it has the right resources available at the right time. Which AWS service or resource will meet these requirements?
+A. Amazon CloudWatch
+B. Application Load Balancer
+C. AWS Batch
+D. Amazon EC2 Auto Scaling 
+Answer: D
+

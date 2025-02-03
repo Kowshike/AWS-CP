@@ -1,0 +1,235 @@
+Which documentation does AWS Artifact provide?
+A. Amazon EC2 terms and conditions
+B. AWS ISO certifications
+C. A history of a company's AWS spending
+D. A list of previous-generation Amazon EC2 instance types
+ANSWER: B
+
+Which of the following acts as an instance-level firewall to control inbound and outbound access?
+A. Network access control list
+B. Security groups
+C. AWS Trusted Advisor
+D. Virtual private gateways
+ANSWER: B
+
+Which action will provide documentation to help a company evaluate whether its use of the AWS Cloud is compliant with local regulatory standards?
+A. Running Amazon GuardDuty
+B. Using AWS Artifac
+C. Creating an AWS Support ticket
+D. Evaluating AWS CloudTrail logs
+Answer: B
+
+Which AWS service helps protect against DDoS attacks?
+A. AWS Shield
+B. Amazon Inspector
+C. Amazon GuardDuty
+D. Amazon Detective
+ANSWER: A
+
+Which AWS service allows users to download security and compliance reports about the AWS infrastructure on demand?
+A. Amazon GuardDuty
+B. AWS Security Hub
+C. AWS Artifact 
+D. AWS Shield
+ANSWER: C
+
+Which AWS service monitors AWS accounts for security threats?
+A. Amazon GuardDuty Most Voted
+B. AWS Secrets Manager
+C. Amazon Cognito
+D. AWS Certificate Manager (ACM)
+ANSWER: A
+
+A company requires an isolated environment within AWS for security purposes.Which action can be taken to accomplish this?
+A. Create a separate Availability Zone to host the resources.
+B. Create a separate VPC to host the resources. 
+C. Create a placement group to host the resources.
+D. Create an AWS Direct Connect connection between the company and AWS.
+ANSWER: B
+
+A company wants to improve its security and audit posture by limiting Amazon EC2 inbound access.What should the company use to access instances remotely instead of opening inbound SSH ports and managing SSH keys?
+A. EC2 key pairs
+B. AWS Systems Manager Session Manager 
+C. AWS Identity and Access Management (IAM)
+D. Network ACLs
+ANSWER: B
+
+Which approach will enhance a user's security on AWS?
+A. Use Multi-AZ deployments with Amazon RDS.
+B. Create a hybrid architecture by using AWS Direct Connect.
+C. Monitor application-specific information with AWS X-Ray.
+D. Encrypt data by using AWS Key Management Service (AWS KMS)
+Answer: D
+
+Which AWS service or tool is associated with an Amazon EC2 instance and acts as a virtual firewall to control inbound and outbound traffic?
+A. AWS WAF
+B. AWS Shield
+C. Network access control list (ACL)
+D. Security group
+Answer: D
+
+A company wants to secure its consumer web application by using SSL/TLS to encrypt traffic. Which AWS service can the company use to meet this goal?
+A. AWS WAF
+B. AWS Shield
+C. Amazon VPC
+D. AWS Certificate Manager (ACM)
+Answer: D
+
+A  company needs an AWS service that will continuously monitor the company's AWS account for suspicious activity. The service must have the ability to initiate automated actions against threats that are identified in the security findings.Which service will meet these requirements?
+A. AWS Trusted Advisor
+B. Amazon Detective
+C. Amazon Inspector
+D. Amazon GuardDuty
+Answer: D
+
+A company has multiple applications and is now building a new multi-tier application. The company will host the new application on Amazon EC2 instances. The company wants the network routing and traffic between the various applications to follow the security principle of least privilege. Which AWS service or feature should the company use to enforce this principle?
+A. Security groups 
+B. AWS Shield
+C. AWS Global Accelerator
+D. AWS Direct Connect gateway
+Answer: A
+
+A company's web application requires AWS credentials and authorizations to use an AWS service. Which IAM entity should the company use as best practice?
+A. IAM role 
+B. IAM user
+C. IAM group
+D. IAM multi-factor authentication (MFA)
+Answer: A
+
+Which AWS service will help protect applications running on AWS from DDoS attacks?
+A. Amazon GuardDuty
+B. AWS WAF
+C. AWS Shield
+D. Amazon Inspector
+ANSWER: C
+
+Which of the following are features of network ACLs as they are used in the AWS Cloud? (Choose two.)
+A. They are stateless.
+B. They are stateful.
+C. They evaluate all rules before allowing traffic.
+D. They process rules in order, starting with the lowest numbered rule, when deciding whether to allow traffic.
+E. They operate at the instance level.
+ANSWER: A,D
+
+A company recently deployed an Amazon RDS instance in its VPC. The company needs to implement a stateful firewall to limit traffic to the private corporate network. Which AWS service or feature should the company use to limit network traffic directly to its RDS instance?
+A. Network ACLs
+B. Security groups
+C. AWS WAF
+D. Amazon GuardDuty
+ANSWER: B
+
+A company wants to implement threat detection on its AWS infrastructure. However, the company does not want to deploy additional software. Which AWS service should the company use to meet these requirements?
+A. Amazon VPC
+B. Amazon EC2
+C. Amazon GuardDuty
+D. AWS Direct Connect
+ANSWER: C
+
+Which AWS service can be used to encrypt data at rest?
+A. Amazon GuardDuty
+B. AWS Shield
+C. AWS Security Hub
+D. AWS Key Management Service (AWS KMS)
+ANSWER: D
+
+A company needs to implement identity management for a fleet of mobile apps that are running in the AWS Cloud.Which AWS service will meet this requirement?
+A. Amazon Cognito 
+B. AWS Security Hub
+C. AWS Shield
+D. AWS WAF
+Answer: A
+
+A retail company has recently migrated its website to AWS. The company wants to ensure that it is protected from SQL injection attacks.The website uses an Application Load Balancer to distribute traffic to multiple Amazon EC2 instances.Which AWS service or feature can be used to create a custom rule that blocks SQL injection attacks?
+A. Security groups
+B. AWS WAF 
+C. Network ACLs
+D. AWS Shield
+ANSWER: B
+
+What should a user do if the user loses an IAM secret access key?
+A. Retrieve the secret access key by using the IAM console.
+B. Create a new user with a new access key and a new secret access key.
+C. Rotate the secret access key.
+D. Request a new secret access key from AWS Support.
+Answer: C
+
+A company needs stateless network filtering for its VPC. Which AWS service, tool, or feature will meet this requirement?
+A. AWS PrivateLink
+B. Security group
+C. Network access control list (ACL) Most Voted
+D. AWS WAF
+Answer: C
+
+A company needs to audit its AWS resources. The company must document any changes that have been made to the resources. Which AWS service will meet these requirements?
+A. AWS Artifact
+B. AWS Config
+C. Amazon Inspector
+D. Amazon CloudWatch
+Answer: B
+
+Which of the following are AWS best practice recommendations for the use of AWS Identity and Access Management (IAM)? (Choose two.)
+A. Use the AWS account root user tor daily access.
+B. Use access keys and secret access keys on Amazon EC2.
+C. Rotate credentials on a regular basis. 
+D. Create a shared set of access keys for system administrators.
+E. Configure multi-factor authentication (MFA).
+Answer: C,E
+
+Which AWS service or feature gives a company the ability to control incoming traffic and outgoing traffic for Amazon EC2 instances?
+A. Security groups 
+B. Amazon Route 53
+C. AWS Direct Connect
+D. Amazon VPC
+Answer: A
+
+Which AWS service provides threat detection by monitoring for malicious activities and unauthorized actions to protect AWS accounts, workloads, and data that is stored in Amazon S3?
+A. AWS Shield
+B. AWS Firewall Manager
+C. Amazon GuardDuty
+D. Amazon Inspector
+Answer: C
+
+A company needs an automated security assessment report that will identify unintended network access to Amazon EC2 instances. The report also must identify operating system vulnerabilities on those instances.
+Which AWS service or feature should the company use to meet this requirement?
+A. AWS Trusted Advisor
+B. Security groups
+C. Amazon Macie
+D. Amazon Inspector
+Answer: D
+
+Which AWS service contains built-in engines to protect web applications that run in the cloud from SQL injection attacks and cross-site scripting?
+A. AWS WAF 
+B. AWS Shield Advanced
+C. Amazon GuardDuty
+D. Amazon Detective
+Answer: A
+
+A company needs to set up user authentication for a new application. Users must be able to sign in directly with a user name and password, or through a third- party provider. Which AWS service should the company use to meet these requirements?
+A. AWS Single Sign-On
+B. AWS Signer
+C. Amazon Cognito 
+D. AWS Directory Service
+Answer: C
+
+What is the primary use case for Amazon GuardDuty?
+A. Prevention of DDoS attacks
+B. Protection against SQL injection attacks
+C. Automatic monitoring for threats to AWS workloads
+D. Automatic provisioning of AWS resources
+Answer: C
+
+Which AWS services or tools are designed to protect a workload from SQL injections, cross-site scripting, and DDoS attacks? (Choose two.)
+A. VPC endpoint
+B. Virtual private gateway
+C. AWS Shield Standard
+D. AWS Config
+E. AWS WAF
+Answer: E
+
+Which action will provide documentation to help a company evaluate whether its use of the AWS Cloud is compliant with local regulatory standards?
+A. Running Amazon GuardDuty
+B. Using AWS Artifact  
+C. Creating an AWS Support ticket
+D. Evaluating AWS CloudTrail logs
+Answer: B
+

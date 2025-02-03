@@ -1,0 +1,217 @@
+A user needs to quickly deploy a non-relational database on AWS. The user does not want to manage the underlying hardware or the database software.Which AWS service can be used to accomplish this?
+A. Amazon RDS
+B. Amazon DynamoDB 
+C. Amazon Aurora
+D. Amazon Redshift
+ANSWER: B
+
+A company would like to host its MySQL databases on AWS and maintain full control over the operating system, database installation, and configuration.Which AWS service should the company use to host the databases?
+A. Amazon RDS
+B. Amazon EC2 
+C. Amazon DynamoDB
+D. Amazon Aurora
+ANSWER: B
+
+According to the AWS shared responsibility model, what responsibility does a customer have when using Amazon RDS to host a database?
+A. Manage connections to the database
+B. Install Microsoft SQL Server
+C. Design encryption-at-rest strategies
+D. Apply minor database patches
+ANSWER: A
+
+A company is developing a mobile app that needs a high-performance NoSQL database. Which AWS services could the company use for this database? (Choose two.)
+A. Amazon Aurora
+B. Amazon RDS
+C. Amazon Redshift
+D. Amazon DocumentDB (with MongoDB compatibility)
+E. Amazon DynamoDB
+ANSWER: D,E
+
+Which AWS services are managed database services? (Choose two.)
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon S3
+C. Amazon RDS
+D. Amazon Elastic File System (Amazon EFS)
+E. Amazon DynamoDB
+ANSWER: C,E
+
+A retail company needs to build a highly available architecture for a new ecommerce platform. The company is using only AWS services that replicate data across multiple Availability Zones. Which AWS services should the company use to meet this requirement? (Choose two.)
+A. Amazon EC2
+B. Amazon Elastic Block Store (Amazon EBS)
+C. Amazon Aurora
+D. Amazon DynamoDB
+E. Amazon Redshift
+ANSWER: C,D
+
+A company is using an Amazon RDS DB instance for an application that is deployed in the AWS Cloud. The company needs regular patching of the operating system of the server where the DB instance runs.What is the company's responsibility in this situation, according to the AWS shared responsibility model?
+A. Open a support case to obtain administrative access to the server so that the company can patch the DB instance operating system.
+B. Open a support case and request that AWS patch the DB instance operating system.
+C. Use administrative access to the server, and apply the operating system patches during the regular maintenance window that is defined for the DB instance.
+D. Establish a regular maintenance window that tells AWS when to patch the DB instance operating system.
+Answer: D
+
+Which task does AWS perform automatically?
+A. Encrypt data that is stored in Amazon DynamoDB. 
+B. Patch Amazon EC2 instances.
+C. Encrypt user network traffic.
+D. Create TLS certificates for users' websites.
+ANSWER: A
+
+Which AWS services should a company use to read and write data that changes frequently? (Choose two.)
+A. Amazon S3 Glacier
+B. Amazon RDS 
+C. AWS Snowball
+D. Amazon Redshift
+E. Amazon Elastic File System (Amazon EFS)
+Answer: B,E
+
+Which AWS service can be used to decouple applications?
+A. AWS Config
+B. Amazon Simple Queue Service (Amazon SQS)
+C. AWS Batch
+D. Amazon Simple Email Service (Amazon SES)
+Answer: B
+
+A development team wants to publish and manage web services that provide REST APIs. Which AWS service will meet this requirement?
+A. AWS App Mesh
+B. Amazon API Gateway
+C. Amazon CloudFront
+D. AWS Cloud Map
+Answer: B
+
+Which AWS service or feature is used to send both text and email messages from distributed applications?
+A. Amazon Simple Notification Service (Amazon SNS) 
+B. Amazon Simple Email Service (Amazon SES)
+C. Amazon CloudWatch alerts
+D. Amazon Simple Queue Service (Amazon SQS)
+Answer: A
+
+A company needs to set up a petabyte-scale data warehouse in the AWS Cloud. Which AWS service will meet this requirement?
+A. Amazon DynamoDB
+B. Amazon RDS
+C. Amazon Redshift
+D. Amazon ElastiCache
+Answer: A
+
+Which AWS service enables the decoupling and scaling of applications?
+A. Amazon Simple Queue Service (Amazon SQS)
+B. AWS Outposts
+C. Amazon S3
+D. Amazon Simple Email Service (Amazon SES)
+Answer: A
+
+A company has an on-premises Oracle database. The company spends a significant amount of time on database administration activities. The company is moving the database to AWS and needs to minimize the time that is required for those administration activities Which AWS service should the company use to meet this requirement?
+A. Amazon ElastiCache
+B. Amazon EC2
+C. Amazon RDS
+D. Amazon DynamoDB
+ANSWER: C
+
+Which AWS service should a company use to create a NoSQL database?
+A. Amazon Aurora
+B. Amazon DynamoDB Most Voted
+C. Amazon Redshift
+D. Amazon Neptune
+Answer: B
+
+company has an on-premises Oracle database. The company spends a significant amount of time on database administration activities. The company is moving the database to AWS and needs to minimize the time that is required for those administration activities Which AWS service should the company use to meet this requirement?
+A. Amazon ElastiCache
+B. Amazon EC2
+C. Amazon RDS Most Voted
+D. Amazon DynamoDB
+Answer: D
+
+A company is using an Amazon RDS database to run reports that are input/output (I/O) intensive. Which AWS service can be used to improve the database performance?
+A. Amazon DynamoDB Accelerator (DAX)
+B. Amazon EMR
+C. Amazon ElastiCache
+D. Amazon Redshift
+Answer: C
+
+Which AWS service provides automated backups of data by default?
+A. Amazon S3
+B. Amazon Aurora 
+C. Amazon ElastiCache for Memcached
+D. Amazon Elastic File System (Amazon EFS)
+Answer: B
+
+A company is using Amazon RDS. Which task is the company's responsibility, according to the AWS shared responsibility model?
+A. Apply encryption options for the database. 
+B. Manage the underlying server hardware on which Amazon RDS runs.
+C. Apply patches to the underlying operating system.
+D. Apply minor patches to the database.
+Answer: A
+
+A company recently created its first AWS account. Which AWS services will require the use of a VPC? (Choose two.)
+A. Amazon S3
+B. Amazon Elastic File System (Amazon EFS)
+C. Amazon Cognito
+D. Amazon DynamoDB
+E. Amazon EC2
+Answer: B,E
+
+A company manages an on-premises MySQL database on a Windows server. The company wants to migrate the database to AWS and needs a solution that will reduce the administrative overhead of the database. Which AWS service will meet this requirement?
+A. Amazon Redshift
+B. Amazon ElastiCache
+C. Amazon RDS
+D. Amazon Elastic File System (Amazon EFS)
+Answer: C
+
+Which AWS service is a relational database compatible with MySQL and PostgreSQL?
+A. Amazon Redshift
+B. Amazon DynamoDB
+C. Amazon Aurora
+D. Amazon Neptune
+Answer: C
+
+A global company is building a simple time-tracking mobile app. The app needs to operate globally and must store collected data in a database. Data must be accessible from the AWS Region that is closest to the user.
+What should the company do to meet these data storage requirements with the LEAST amount of operational overhead?
+A. Use Amazon EC2 in multiple Regions to host separate databases
+B. Use Amazon RDS cross-Region replication
+C. Use Amazon DynamoDB global tables 
+D. Use AWS Database Migration Service (AWS DMS)
+Answer: C
+
+Which AWS service should be used to migrate a company's on-premises MySQL database to Amazon RDS?
+A. AWS Direct Connect
+B. AWS Server Migration Service (AWS SMS)
+C. AWS Database Migration Service (AWS DMS) 
+D. AWS Schema Conversion Tool (AWS SCT)
+Answer: C
+
+Which of the following is a benefit of decoupling an AWS Cloud architecture?
+A. Reduced latency
+B. Ability to upgrade components independently 
+C. Decreased costs
+D. Fewer components to manage
+Answer: B
+
+Which AWS services use cloud-native storage that provides replication across multiple Availability Zones by default? (Choose two.)
+A. Amazon ElastiCache
+B. Amazon RDS for Oracle 
+C. Amazon Neptune 
+D. Amazon DocumentDB (with MongoDB compatibility) Most Voted
+E. Amazon Redshift
+Answer: CD
+
+A company needs to generate reports for business intelligence and operational analytics on petabytes of semistructured and structured data. These reports are produced from standard SQL queries on data that is in an Amazon S3 data lake. Which AWS service provides the ability to analyze this data?
+A. Amazon RDS
+B. Amazon Neptune
+C. Amazon DynamoDB
+D. Amazon Redshift
+Answer: D
+
+Which of the following is an AWS key-value database offering consistent single-digit millisecond performance at any scale?
+A. Amazon RDS
+B. Amazon Aurora
+C. Amazon DynamoDB 
+D. Amazon Redshift
+Answer: C
+
+A company is developing a new Node.js application. The application must have a scalable NoSQL database to meet increasing demand as the popularity of the application grows. Which AWS service will meet the requirements for the database?
+A. Amazon Aurora Serverless
+B. Amazon ElastiCache
+C. Amazon DynamoDB  
+D. Amazon Redshift
+Answer: C
+

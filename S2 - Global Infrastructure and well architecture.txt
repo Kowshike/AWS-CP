@@ -1,0 +1,368 @@
+Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
+A. Security
+B. Reliability
+C. Performance efficiency
+D. Cost optimization
+ANSWER: B
+
+A company is planning to replace its physical on-premises compute servers with AWS serverless compute services. The company wants to be able to take advantage of advanced technologies quickly after the migration. Which pillar of the AWS Well-Architected Framework does this plan represent?
+A. Security
+B. Performance efficiency
+C. Operational excellence
+D. Reliability
+Answer: B
+
+What is an AWS Region?
+A. A broad set of global, cloud-based products that include compute, storage, and databases
+B. A physical location around the world where data centers are clustered
+C. One or more discrete data centers with redundant power, networking, and connectivity
+D. A service that developers use to build applications that deliver latencies of single-digit milliseconds to users
+Answer: B
+
+Which component of the AWS global infrastructure is made up of one or more discrete data centers that have redundant power, networking, and connectivity?
+A. AWS Region
+B. Availability Zone
+C. Edge location
+D. AWS Outposts
+Answer: B 
+
+Which of the following is a recommended design principle for AWS Cloud architecture?
+A. Design tightly coupled components.
+B. Build a single application component that can handle all the application functionality.
+C. Make large changes on fewer iterations to reduce chances of failure.
+D. Avoid monolithic architecture by segmenting workloads. 
+Answer: D
+
+A company is designing its AWS workloads so that components can be updated regularly and so that changes can be made in small, reversible increments.Which pillar of the AWS Well-Architected Framework does this design support?
+A. Security
+B. Performance efficiency
+C. Operational excellence
+D. Reliability
+Answer: C
+
+Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
+A. Security
+B. Operational excellence
+C. Performance efficiency
+D. Cost optimization
+Answer: A
+
+Which of the following is a component of the AWS Global Infrastructure?
+A. Amazon Alexa
+B. AWS Regions 
+C. Amazon Lightsail
+D. AWS Organizations
+Answer: B
+
+A large organization has a single AWS account.What are the advantages of reconfiguring the single account into multiple AWS accounts? (Choose two.)
+A. It allows for administrative isolation between different workloads. 
+B. Discounts can be applied on a quarterly basis by submitting cases in the AWS Management Console.
+C. Transitioning objects from Amazon S3 to Amazon S3 Glacier in separate AWS accounts will be less expensive.
+D. Having multiple accounts reduces the risks associated with malicious activity targeted at a single account. 
+E. Amazon QuickSight offers access to a cost tool that provides application-specific recommendations for environments running in multiple accounts.
+Answer: A,D
+
+Which design principle is included in the operational excellence pillar of the AWS Well-Architected Framework?
+A. Create annotated documentation.
+B. Anticipate failure. 
+C. Ensure performance efficiency.
+D. Optimize costs.
+Answer: B
+
+Which of the following is the customer responsible for updating and patching, according to the AWS shared responsibility model?
+A. Amazon FSx for Windows File Server
+B. Amazon WorkSpaces virtual Windows desktop
+C. AWS Directory Service for Microsoft Active Directory
+D. Amazon RDS for Microsoft SQL Serve
+Answer: B
+
+Who has the responsibility to patch the host operating system of an Amazon EC2 instance, according to the AWS shared responsibility model?
+A. Both AWS and the customer
+B. The customer only
+C. The EC2 hardware manufacturer
+D. AWS only
+Answer: D
+
+Why is an AWS Well-Architected review a critical part of the cloud design process?
+A. A Well-Architected review is mandatory before a workload can run on AWS.
+B. A Well-Architected review helps identify design gaps and helps evaluate design decisions and related documents.
+C. A Well-Architected review is an audit mechanism that is a part of requirements for service level agreements.
+D. A Well-Architected review eliminates the need for ongoing auditing and compliance tests.
+Answer: B
+
+Which AWS Cloud benefit is shown by an architecture's ability to withstand failures with minimal downtime?
+A. Agility
+B. Elasticity
+C. Scalability
+D. High availability
+Answer: D
+
+How does the AWS global infrastructure offer high availability and fault tolerance to its users?
+A. The AWS infrastructure is made up of multiple AWS Regions within various Availability Zones located in areas that have low flood risk, and are interconnected with low-latency networks and redundant power supplies.
+B. The AWS infrastructure consists of subnets containing various Availability Zones with multiple data centers located in the same geographic location.
+C. AWS allows users to choose AWS Regions and data centers so that users can select the closest data centers in different Regions.
+D. The AWS infrastructure consists of isolated AWS Regions with independent Availability Zones that are connected with low-latency networking and redundant power supplies
+Answer: D
+
+ccording to the AWS shared responsibility model, which task is the customer's responsibility?
+A. Maintaining the infrastructure needed to run AWS Lambda
+B. Updating the operating system of Amazon DynamoDB instances
+C. Maintaining Amazon S3 infrastructure
+D. Updating the guest operating system on Amazon EC2 instances
+Answer: D
+
+Which design principle is achieved by following the reliability pillar of the AWS Well-Architected Framework?
+A. Vertical scaling
+B. Manual failure recovery
+C. Testing recovery procedures
+D. Changing infrastructure manually
+Answer: C
+
+Which tasks are the responsibility of AWS, according to the AWS shared responsibility model? (Choose two.)
+A. Patch the Amazon EC2 guest operating system.
+B. Upgrade the firmware of the network infrastructure.
+C. Apply password rotation for IAM users.
+D. Maintain the physical security of edge locations.
+E. Maintain least privilege access to the root user account.
+ANSWER: B,D
+
+A company has designed its AWS Cloud infrastructure to run its workloads effectively. The company also has protocols in place to continuously improve supporting processes. Which pillar of the AWS Well-Architected Framework does this scenario represent?
+A. Security
+B. Performance efficiency
+C. Cost optimization
+D. Operational excellence
+ANSWER: D
+
+A company does not want to rely on elaborate forecasting to determine its usage of compute resources. Instead, the company wants to pay only for the resources that it uses. The company also needs the ability to increase or decrease its resource usage to meet business requirements. Which pillar of the AWS Well-Architected Framework aligns with these requirements?
+A. Operational excellence
+B. Security
+C. Reliability
+D. Cost optimization
+ANSWER: D
+
+A company wants to launch its workload on AWS and requires the system to automatically recover from failure. Which pillar of the AWS Well-Architected Framework includes this requirement?
+A. Cost optimization
+B. Operational excellence
+C. Performance efficiency
+D. Reliability
+ANSWER: D
+
+Which IT controls do AWS and the customer share, according to the AWS shared responsibility model? (Choose two.)
+A. Physical and environmental controls
+B. Patch management
+C. Cloud awareness and training
+D. Zone security
+E. Application data encryption
+ANSWER: B,C
+
+Which of the following are benefits of Amazon EC2 Auto Scaling? (Choose two.)
+A. Improved health and availability of applications
+B. Reduced network latency
+C. Optimized performance and costs
+D. Automated snapshots of data
+E. Cross-Region Replication
+ANSWER: A,C
+
+Which of the following are benefits of migrating to the AWS Cloud? (Choose two.)
+A. Operational resilience
+B. Discounts for products on Amazon.com
+C. Business agility
+D. Business excellence
+E. Increased staff retention
+ANSWER: A,C
+
+A company implements an Amazon EC2 Auto Scaling policy along with an Application Load Balancer to automatically recover unhealthy applications that run on Amazon EC2 instances.Which pillar of the AWS Well-Architected Framework does this action cover?
+A. Security
+B. Performance efficiency
+C. Operational excellence
+D. Reliability
+Answer: D
+
+A company needs to design an AWS disaster recovery plan to cover multiple geographic areas.Which action will meet this requirement?
+A. Configure multiple AWS accounts.
+B. Configure the architecture across multiple Availability Zones in an AWS Region. 
+C. Configure the architecture across multiple AWS Regions. 
+D. Configure the architecture among many edge locations.
+Answer: C
+
+Which task is an AWS responsibility when a workload is running in Amazon RDS?
+A. Creating the database table
+B. Updating the database schema
+C. Installing the database engine 
+D. Dropping the database records
+Answer: C
+
+Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?
+A. Database backups
+B. Database software patches
+C. Operating system patches
+D. Operating system installations
+Answer: D
+
+Which AWS benefit enables users to deploy cloud infrastructure that consists of multiple geographic regions connected by a network with low latency, high throughput, and redundancy?
+A. Economies of scale
+B. Security
+C. Elasticity
+D. Global reach
+Answer: D
+
+A company wants to migrate its on-premises Microsoft SQL Server database server to the AWS Cloud. The company has decided to use Amazon EC2 instances to run this database.Which of the following is the company responsible for managing, according to the AWS shared responsibility model?
+A. EC2 hypervisor
+B. Security patching of the guest operating system
+C. Network connectivity of the host server
+D. Uptime service level agreement (SLA) for the EC2 instances
+Answer: B
+
+A web application is hosted on AWS using an Elastic Load Balancer, multiple Amazon EC2 instances, and Amazon RDS. Which security measures fall under the responsibility of AWS? (Choose two.)
+A. Running a virus scan on EC2 instances
+B. Protecting against IP spoofing and packet sniffing
+C. Installing the latest security patches on the RDS instance
+D.  Encrypting communication between the EC2 instances and the Elastic Load Balancer
+E. Configuring a security group and a network access control list (NACL) for EC2 instances
+Answer: B,C
+
+Which of the following is an AWS Well-Architected Framework design principle for operational excellence in the AWS Cloud?
+A. Go global in minutes.
+B. Make frequent, small, reversible changes.
+C. Implement a strong foundation of identity and access management.
+D. Stop spending money on hardware infrastructure for data center operations
+Answer: B
+
+A company wants to expand from one AWS Region into a second AWS Region. What does the company need to do to expand into the second Region?
+A. Contact an AWS account manager to sign a new contract.
+B. Move an Availability Zone to the second Region.
+C. Begin to deploy resources in the second Region.
+D. Download the AWS Management Console for the second Region.
+Answer: c
+
+Which of the following are aspects of the AWS shared responsibility model? (Choose two.)
+A. Configuration management of infrastructure devices is the customer's responsibility.
+B. For Amazon S3, AWS operates the infrastructure layer, the operating systems, and the platforms.
+C. AWS is responsible for protecting the physical cloud infrastructure. 
+D. AWS is responsible for training the customer's employees on AWS products and services.
+E. For Amazon EC2, AWS is responsible for maintaining the guest operating system.
+Answer: B,C
+
+A company that operates in the AWS Cloud wants to test workloads and team responses to simulated events. The company will conduct an exercise to identify potential issues that need to be addressed. Which design principle of the AWS Well-Architected Framework does this exercise represent?
+A. Anticipate failure. 
+B. Automatically recover from failure.
+C. Measure overall cost efficiency.
+D. Implement loosely coupled dependencies.
+Answer: A
+
+A company is using Amazon EC2 instances. Which tasks are the company's responsibility, according to the AWS shared responsibility model? (Choose two.)
+A. Maintain the network infrastructure.
+B. Patch the guest operating system.
+C. Configure a security group on deployed EC2 instances.
+D. Provide physical security for the underlying hardware of the EC2 instances.
+E. Manage the underlying hypervisor.
+Answer: B,C
+
+Which of the following does Amazon CloudFront use to distribute content to users around the world?
+A. Amazon VPC
+B. AWS Local Zones
+C. Edge locations
+D. Availability Zones
+Answer: C 
+
+Which pillar of the AWS Well-Architected Framework includes the continual improvement of processes and procedures as a priority?
+A. Cost optimization
+B. Reliability
+C. Performance efficiency
+D. Operational excellence
+Answer: D
+
+Which of the following consists of one or more isolated data centers in the same regional area that are interconnected through low-latency networks?
+A. Availability Zone
+B. Edge location
+C. AWS Region
+D. Private networking
+Answer: A
+
+Which benefit of cloud computing gives a company the ability to deploy applications to users all over the world through a network of AWS Regions, Availability Zones, and edge locations?
+A. Economy of scale
+B. Global reach
+C. Agility
+D. High availability
+Answer: B
+
+Which controls does the customer fully inherit from AWS in the AWS shared responsibility model?
+A. Patch management controls
+B. Awareness and training controls
+C. Physical and environmental controls 
+D. Configuration management controls
+Answer: C
+
+Which task is a customer's responsibility, according to the AWS shared responsibility model?
+A. Management of the guest operating systems
+B. Maintenance of the configuration of infrastructure devices
+C. Management of the host operating systems and virtualization
+D. Maintenance of the software that powers Availability Zones
+Answer: A
+
+A company wants to increase its ability to recover its infrastructure in the case of a natural disaster. Which pillar of the AWS Well-Architected Framework does this ability represent?
+A. Cost optimization
+B. Performance efficiency
+C. Reliability 
+D. Security
+Answer: C
+
+Which task is the responsibility of the customer according to the AWS shared responsibility model?
+A. Maintain the security of the hardware that runs Amazon EC2 instances.
+B. Patch the guest operating system of Amazon EC2 instances.
+C. Protect the security of the AWS global infrastructure.
+D. Patch Amazon RDS software.
+Answer: B
+
+An ecommerce company has migrated its IT infrastructure from an on-premises data center to the AWS Cloud. Which cost is the company's direct responsibility?
+A. Cost of application software licenses
+B. Cost of the hardware infrastructure on AWS
+C. Cost of power for the AWS servers
+D. Cost of physical security for the AWS data center
+Answer: A
+
+What are the five pillars of the AWS Well-Architected Framework?
+A. Encryption, documentation, speed, hybrid design, and cost optimization
+B. Containerization, cost margins, globalization, marketplace, and developer operations
+C. Network, compute, storage, security, and developer operations
+D. Operational excellence, reliability, performance efficiency, security, and cost optimization
+Answer: D
+
+A user has been granted permission to change their own IAM user password. Which AWS services can the user use to change the password? (Choose two.)
+A. AWS Command Line Interface (AWS CLI)
+B. AWS Key Management Service (AWS KMS)
+C. AWS Management Console
+D. AWS Resource Access Manager (AWS RAM)
+E. AWS Secrets Manager
+Answer: AC
+
+A system automatically recovers from failure when a company launches its workload on the AWS Cloud services platform. Which pillar of the AWS Well-Architected Framework does this situation demonstrate?
+A. Cost optimization
+B. Operational excellence
+C. Performance efficiency
+D. Reliability
+Answer: D
+
+Which of the following describes AWS Local Zones?
+A. A cluster of data centers in one geographic location
+B. A site used by Amazon CloudFront to cache frequently accessed content
+C. An extension of an AWS Region to more granular locations
+D. One or more data centers with redundant power and networking
+Answer: C
+
+A retail company is migrating its IT infrastructure applications from on premises to the AWS Cloud. Which costs will the company eliminate with this migration? (Choose two.)
+A. Cost of data center operations 
+B. Cost of application licensing
+C. Cost of marketing campaigns
+D. Cost of physical server hardware 
+E. Cost of network management
+Answer: AD
+
+Which controls are shared under the AWS shared responsibility model? (Choose two.)
+A. Awareness and training 
+B. Patching of Amazon RDS
+C. Configuration management 
+D. Physical and environmental controls
+E. Service and communications protection or security
+Answer: AC
+

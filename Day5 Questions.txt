@@ -1,0 +1,209 @@
+A company wants to review its monthly costs of using Amazon EC2 and Amazon RDS for the past year. Which AWS service or tool provides this information?
+A. AWS Trusted Advisor
+B. Cost Explorer
+C. Amazon Forecast
+D. Amazon CloudWatch
+ANSWER: B
+
+Which AWS service or feature can a company use to determine which business unit is using specific AWS resources?
+A. Cost allocation tags
+B. Key pairs
+C. Amazon Inspector
+D. AWS Trusted Advisor
+ANSWER: A
+
+A developer is working on enhancing applications at AWS. The developer needs a service that can securely host GitHub-based code, repositories,and version controls.Which AWS service should the developer use?
+A. AWS CodeStar
+B. Amazon CodeGuru
+C. AWS CodeCommit
+D. AWS CodePipeline
+ANSWER: C
+
+A company plans to launch an application that will run in multiple locations within the United States. The company needs to identify the two AWS Regions where the application can operate at the lowest price. Which AWS service or feature should the company use to determine the Regions that offer the lowest price?
+A. Cost Explorer
+B. AWS Budgets
+C. AWS Trusted Adviso
+D. AWS Pricing Calculator
+ANSWER: D
+
+A company is planning an infrastructure deployment to the AWS Cloud. Before the deployment, the company wants a cost estimate for running the infrastructure.Which AWS service or feature can provide this information?
+A. Cost Explorer
+B. AWS Trusted Advisor
+C. AWS Cost and Usage Report
+D. AWS Pricing Calculator
+ANSWER: D
+
+Which AWS service or tool can a company use to visualize, understand, and manage AWS spending and usage over time?
+A. AWS Trusted Advisor
+B. Amazon CloudWatch
+C. Cost Explorer
+D. AWS Budgets
+ANSWER: C
+
+A company needs to graphically visualize AWS billing and usage over time. The company also needs information about its AWS monthly costs. Which AWS Billing and Cost Management tool provides this data in a graphical format?
+A. AWS Bills
+B. Cost Explorer
+C. AWS Cost and Usage Report
+D. AWS Budgets
+ANSWER: B
+
+A company has refined its workload to use specific AWS services to improve efficiency and reduce cost.Which best practice for cost governance does this example show?
+A. Resource controls
+B. Cost allocation
+C. Architecture optimization 
+D. Tagging enforcement
+ANSWER: C
+
+A company needs to generate reports that can break down cloud costs by product, by company-defined tags, and by hour, day, and month. Which AWS tool should the company use to meet these requirements?
+A. Reserved Instance utilization and coverage reports
+B. Savings Plans utilization reports
+C. AWS Budgets reports
+D. AWS Cost and Usage Reports
+ANSWER: D
+
+A company is moving multiple applications to a single AWS account. The company wants to monitor the AWS Cloud costs incurred by each application.What can the company do to meet this requirement?
+A. Set up invoiced billing.
+B. Use AWS Artifact.
+C. Set budgets in Cost Explorer.
+D. Create cost allocation tags. 
+ANSWER: D
+
+A company is using the AWS Free Tier for several AWS services for an application. What will happen if the Free Tier usage period expires or if the application use exceeds the Free Tier usage limits?
+A. The company will be charged the standard pay-as-you-go service rates for the usage that exceeds the Free Tier usage.
+B. AWS Support will contact the company to set up standard service charges.
+C. The company will be charged for the services it consumed during the Free Tier period, plus additional charges for service consumption after the Free Tier period.
+D. The company's AWS account will be frozen and can be restarted after a payment plan is established.
+ANSWER: A
+
+A company has several departments. Each department has its own AWS accounts for its applications. The company wants all AWS costs on a single invoice to simplify payment, but the company wants to know the costs that each department is incurring. Which AWS tool or feature will provide this functionality?
+A. AWS Cost and Usage Reports
+B. Consolidated billing
+C. Savings Plans
+D. AWS Budgets
+ANSWER: B
+
+A company runs its workloads on premises. The company wants to forecast the cost of running a large application on AWS. Which AWS service or tool can the company use to obtain this information?
+A. AWS Pricing Calculator
+B. AWS Budgets
+C. AWS Trusted Advisor
+D. Cost Explorer
+ANSWER: A
+
+A company wants to migrate its workloads to AWS, but it lacks expertise in AWS Cloud computing. Which AWS service or feature will help the company with its migration?
+A. AWS Trusted Advisor
+B. AWS Consulting Partners
+C. AWS Artifacts
+D. AWS Managed Services
+ANSWER: B
+
+Which task requires using AWS account root user credentials?
+A. Viewing billing information
+B. Changing the AWS Support plan
+C. Starting and stopping Amazon EC2 instances
+D. Opening an AWS Support case
+ANSWER: B
+
+What does the AWS Concierge Support team provide?
+A. A technical expert dedicated to the user
+B. A primary point of contact for AWS Billing and AWS Support 
+C. A partner to help provide scaling guidance for an event launch
+D. A dedicated AWS staff member who reviews the user's application architecture
+ANSWER: B
+
+A global media company uses AWS Organizations to manage multiple AWS accounts. Which AWS service or feature can the company use to limit the access to AWS services for member accounts?
+A. AWS Identity and Access Management (IAM)
+B. Service control policies (SCPs)
+C. Organizational units (OUs)
+D. Access control lists (ACLs)
+ANSWER: B
+
+A company wants to limit its employees' AWS access to a portfolio of predefined AWS resources. Which AWS solution should the company use to meet this requirement?
+A. AWS Config
+B. AWS software development kits (SDKs)
+C. AWS Service Catalog
+D. AWS AppSync
+ANSWER: C
+
+A company wants to run production workloads on AWS. The company needs concierge service, a designated AWS technical account manager (TAM), and technical support that is available 24 hours a day, 7 days a week. Which AWS Support plan will meet these requirements?
+A. AWS Basic Support
+B. AWS Enterprise Support
+C. AWS Business Support
+D. AWS Developer Support
+ANSWER: B
+
+Which AWS service provides a feature that can be used to proactively monitor and plan for the service quotas of AWS resources?
+A. AWS CloudTrail
+B. AWS Personal Health Dashboard
+C. AWS Trusted Advisor 
+D. Amazon CloudWatch 
+ANSWER: C
+
+A company is preparing to launch a new web store that is expected to receive high traffic for an upcoming event. The web store runs only on AWS, and the company has an AWS Enterprise Support plan. Which AWS resource will provide guidance about how the company should scale its architecture and operational support during the event?
+A. AWS Abuse team
+B. The designated AWS technical account manager (TAM)
+C. AWS infrastructure event management
+D. AWS Professional Services
+ANSWER: C
+
+A company that has multiple business units wants to centrally manage and govern its AWS Cloud environments. The company wants to automate the creation of AWS accounts, apply service control policies (SCPs), and simplify billing processes. Which AWS service or tool should the company use to meet these requirements?
+A. AWS Organizations
+B. Cost Explorer
+C. AWS Budgets
+D. AWS Trusted Advisor
+ANSWER: A
+
+Service control policies (SCPs) manage permissions for which of the following?
+A. Availability Zones
+B. AWS Regions
+C. AWS Organizations
+D. Edge locations
+ANSWER: C
+
+Which benefit is included with an AWS Enterprise Support plan?
+A. AWS Partner Network (APN) support at no cost.
+B. Designated support from an AWS technical account manager (TAM)
+C. On-site support from AWS engineers
+D. AWS managed compliance as code with AWS Config
+ANSWER: B
+
+A user is able to set up a master payer account to view consolidated billing reports through:
+A. AWS Budgets.
+B. Amazon Macie.
+C. Amazon QuickSight.
+D. AWS Organizations.
+ANSWER: D
+
+Which AWS service of tool helps to centrally manage billing and allow controlled access to resources across AWS accounts?
+A. AWS Identity and Access Management (IAM)
+B. AWS Organizations 
+C. Cost Explorer
+D. AWS Budgets
+ANSWER: B
+
+A large company has multiple departments. Each department has its own AWS account. Each department has purchased Amazon EC2 Reserved Instances. Some departments do not use all the Reserved Instances that they purchased, and other departments need more Reserved Instances than they purchased. The company needs to manage the AWS accounts for all the departments so that the departments can share the Reserved Instances. Which AWS service or tool should the company use to meet these requirements?
+A. AWS Systems Manager
+B. Cost Explorer
+C. AWS Trusted Advisor
+D. AWS Organizations
+ANSWER: D
+
+Which AWS service or feature allows users to connect with and deploy AWS services programmatically?
+A. AWS Management Console
+B. AWS Cloud9
+C. AWS CodePipeline
+D. AWS software development kits (SDKs)
+ANSWER: D
+
+Which AWS service helps developers use loose coupling and reliable messaging between microservices?
+A. Elastic Load Balancing
+B. Amazon Simple Notification Service (Amazon SNS)
+C. Amazon CloudFront
+D. Amazon Simple Queue Service (Amazon SQS) 
+ANSWER: D
+
+A company needs to install an application in a Docker container. Which AWS service eliminates the need to provision and manage the container hosts?
+A. AWS Fargate
+B. Amazon FSx for Windows File Server
+C. Amazon Elastic Container Service (Amazon ECS) Most Voted
+D. Amazon EC2
+ANSWER: A

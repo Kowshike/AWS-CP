@@ -1,0 +1,139 @@
+What is the total amount of storage offered by Amazon S3?
+A. 100MB
+B. 5 GB
+C. 5 TB
+D. Unlimited 
+ANSWER: D
+
+A company wants to use Amazon S3 to store its legacy data. The data is rarely accessed. However, the data is critical and cannot be recreated.The data needs to be available for retrieval within seconds.Which S3 storage class meets these requirements MOST cost-effectively?
+A. S3 Standard
+B. S3 One Zone-Infrequent Access (S3 One Zone-IA)
+C. S3 Standard-Infrequent Access (S3 Standard-IA) 
+D. S3 Glacier
+ANSWER: C
+
+Which AWS service uses machine learning to help discover, monitor, and protect sensitive data that is stored in Amazon S3 buckets?
+A. AWS Shield
+B. Amazon Macie
+C. AWS Network Firewall
+D. Amazon Cognito
+ANSWER: B
+
+A company is launching an application in the AWS Cloud. The application will use Amazon S3 storage. A large team of researchers will have shared access to the data. The company must be able to recover data that is accidentally overwritten or deleted. Which S3 feature should the company turn on to meet this requirement?
+A. Server access logging
+B. S3 Versioning
+C. S3 Lifecycle rules
+D. Encryption in transit and at rest
+ANSWER: B
+
+A user is storing objects in Amazon S3. The user needs to restrict access to the objects to meet compliance obligations. What should the user do to meet this requirement?
+A. Use AWS Secrets Manager.
+B. Tag the objects in the S3 bucket.
+C. Use security groups.
+D. Use network ACLs.
+ANSWER: B
+
+Which AWS service is used to provide encryption for Amazon EBS?
+A. AWS Certificate Manager
+B. AWS Systems Manager
+C. AWS KMS
+D. AWS Config
+ANSWER: C
+
+Which type of AWS storage is ephemeral and is deleted when an Amazon EC2 instance is stopped or terminated?
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon EC2 instance store 
+C. Amazon Elastic File System (Amazon EFS)
+D. Amazon S3
+ANSWER: B
+
+A company has a fleet of cargo ships. The cargo ships have sensors that collect data at sea, where there is intermittent or no internet connectivity. The company needs to collect, format, and process the data at sea and move the data to AWS later. Which AWS service should the company use to meet these requirements?
+A. AWS IoT Core
+B. Amazon Lightsail
+C. AWS Storage Gateway
+D. AWS Snowball Edge
+ANSWER: D
+
+A company has a physical tape library to store data backups. The tape library is running out of space. The company needs to extend the tape library's capacity to the AWS Cloud. Which AWS service should the company use to meet this requirement?
+A. Amazon Elastic Block Store (Amazon EBS)
+B. Amazon S3
+C. Amazon Elastic File System (Amazon EFS)
+D. AWS Storage Gateway
+ANSWER: D
+
+Which disaster recovery option is the LEAST expensive?
+A. Warm standby
+B. Multisite
+C. Backup and restore
+D. Pilot light
+ANSWER: C
+
+A company is migrating to Amazon S3. The company needs to transfer 60 TB of data from an on-premises data center to AWS within 10 days.Which AWS service should the company use to accomplish this migration?
+A. Amazon S3 Glacier
+B. AWS Database Migration Service (AWS DMS)
+C. AWS Snowball
+D. AWS Direct Connect
+ANSWER: C
+
+A user is comparing purchase options for an application that runs on Amazon EC2 and Amazon RDS. The application cannot sustain any interruption. The application experiences a predictable amount of usage, including some seasonal spikes that last only a few weeks at a time. It is not possible to modify the application. Which purchase option meets these requirements MOST cost-effectively?
+A. Review the AWS Marketplace and buy Partial Upfront Reserved Instances to cover the predicted and seasonal load.
+B. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run on Spot Instances.
+C. Buy Reserved Instances for the predicted amount of usage throughout the year. Allow any seasonal usage to run at an On-Demand rate.
+D. Buy Reserved Instances to cover all potential usage that results from the seasonal usage.
+ANSWER: C
+
+A company is launching an ecommerce application that must always be available. The application will run on Amazon EC2 instances continuously for the next 12 months. What is the MOST cost-effective instance purchasing option that meets these requirements?
+A. Spot Instances
+B. Savings Plans
+C. Dedicated Hosts
+D. On-Demand Instances
+ANSWER: B
+
+A company wants to ensure that two Amazon EC2 instances are in separate data centers with minimal communication latency between the data centers.How can the company meet this requirement?
+A. Place the EC2 instances in two separate AWS Regions connected with a VPC peering connection.
+B. Place the EC2 instances in two separate Availability Zones within the same AWS Region. 
+C. Place one EC2 instance on premises and the other in an AWS Region. Then connect them by using an AWS VPN connection.
+D. Place both EC2 instances in a placement group for dedicated bandwidth.
+ANSWER: B
+
+A company hosts an application on an Amazon EC2 instance. The EC2 instance needs to access several AWS resources, including Amazon S3 and Amazon DynamoDB.What is the MOST operationally efficient solution to delegate permissions?
+A. Create an IAM role with the required permissions. Attach the role to the EC2 instance. 
+B. Create an IAM user and use its access key and secret access key in the application.
+C. Create an IAM user and use its access key and secret access key to create a CLI profile in the EC2 instance
+D. Create an IAM role with the required permissions. Attach the role to the administrative IAM user
+ANSWER: A
+
+After selecting an Amazon EC2 Dedicated Host reservation, which pricing option would provide the largest discount?
+A. No upfront payment
+B. Hourly on-demand payment
+C. Partial upfront payment
+D. All upfront payment 
+ANSWER: D
+
+A company wants to migrate a small website and database quickly from on-premises infrastructure to the AWS Cloud. The company has limited operational knowledge to perform the migration.Which AWS service supports this use case?
+A. Amazon EC2
+B. Amazon Lightsail 
+C. Amazon S3
+D. AWS Lambda
+ANSWER: B
+
+Which AWS service or feature acts as a firewall for Amazon EC2 instances?
+A. Network ACL
+B. Elastic network interface
+C. Amazon VPC
+D. Security group
+ANSWER: D
+
+A company has a database server that is always running. The company hosts the server on Amazon EC2 instances. The instance sizes are suitable for the workload. The workload will run for 1 year. Which EC2 instance purchasing option will meet these requirements MOST cost-effectively?
+A. Standard Reserved Instances
+B. On-Demand Instances
+C. Spot Instances
+D. Convertible Reserved Instances
+ANSWER: A
+
+Which of the following is a benefit of moving from an on-premises data center to the AWS Cloud?
+A. Compute instances can be launched and terminated as needed to optimize costs. 
+B. Compute costs can be viewed in the AWS Billing and Cost Management console.
+C. Users retain full administrative access to their compute instances.
+D. Users can optimize costs by permanently running enough instances at peak load.
+ANSWER: A

@@ -1,0 +1,139 @@
+How does the AWS Cloud pricing model differ from the traditional on-premises storage pricing model?
+A. AWS resources do not incur costs
+B. There are no infrastructure operating costs
+C. There are no upfront cost commitments
+D. There are no software licensing costs
+ANSWER: C
+
+A company's on-premises application deployment cycle was 3-4 weeks. After migrating to the AWS Cloud, the company can deploy the application in 2-3 days. Which benefit has this company experienced by moving to the AWS Cloud?
+A. Elasticity
+B. Flexibility
+C. Agility
+D. Resilience
+ANSWER: C
+
+AWS has the ability to achieve lower pay-as-you-go pricing by aggregating usage across hundreds of thousands of users. This describes which advantage of the AWS Cloud?
+A. Launch globally in minutes
+B. Increase speed and agility
+C. High economies of scale
+D. No guessing about compute capacity
+ANSWER: C
+
+Which characteristic of the AWS Cloud helps users eliminate underutilized CPU capacity?
+A. Agility
+B. Elasticity
+C. Reliability
+D. Durability
+ANSWER: B
+
+A company wants to eliminate the need to guess infrastructure capacity before deployments. The company also wants to spend its budget on cloud resources only as the company uses the resources. Which advantage of the AWS Cloud matches the company's requirements?
+A. Reliability
+B. Global reach
+C. Economies of scale
+D. Pay-as-you-go pricing
+ANSWER: D
+
+Which pillar of the AWS Well-Architected Framework refers to the ability of a system to recover from infrastructure or service disruptions and dynamically acquire computing resources to meet demand?
+A. Security
+B. Reliability
+C. Performance efficiency
+D. Cost optimization
+ANSWER: B
+
+The company is planning to replace its physical on-premises compute servers with AWS serverless compute services. The company wants to be able to take advantage of advanced technologies quickly after the migration. Which pillar of the AWS Well-Architected Framework does this plan represent?
+A. Security
+B. Performance efficiency
+C. Operational excellence
+D. Reliability
+ANSWER: B
+
+The company is designing its AWS workloads so that components can be updated regularly and so that changes can be made in small, reversible increments.Which pillar of the AWS Well-Architected Framework does this design support?
+A. Security
+B. Performance efficiency
+C. Operational excellence
+D. Reliability
+ANSWER: C
+
+Using AWS Config to record, audit, and evaluate changes to AWS resources to enable traceability is an example of which AWS Well-Architected Framework pillar?
+A. Security
+B. Operational excellence
+C. Performance efficiency
+D. Cost optimization
+ANSWER: A
+
+Which of the following is a component of the AWS Global Infrastructure?
+A. Amazon Alexa
+B. AWS Regions 
+C. Amazon Lightsail
+D. AWS Organizations
+ANSWER: B
+
+Which design principle is included in the operational excellence pillar of the AWS Well-Architected Framework?
+A. Create annotated documentation.
+B. Anticipate failure. 
+C. Ensure performance efficiency.
+D. Optimize costs.
+ANSWER: B
+
+Who has the responsibility to patch the host operating system of an Amazon EC2 instance, according to the AWS shared responsibility model?
+A. Both AWS and the customer
+B. The customer only
+C. The EC2 hardware manufacturer
+D. AWS only
+ANSWER: D
+
+Which AWS Cloud benefit is shown by an architecture's ability to withstand failures with minimal downtime?
+A. Agility
+B. Elasticity
+C. Scalability
+D. High availability
+ANSWER: D
+
+How does the AWS global infrastructure offer high availability and fault tolerance to its users?
+A. The AWS infrastructure is made up of multiple AWS Regions within various Availability Zones located in areas that have low flood risk, and are interconnected with low-latency networks and redundant power supplies.
+B. The AWS infrastructure consists of subnets containing various Availability Zones with multiple data centers located in the same geographic location.
+C. AWS allows users to choose AWS Regions and data centers so that users can select the closest data centers in different Regions.
+D. The AWS infrastructure consists of isolated AWS Regions with independent Availability Zones that are connected with low-latency networking and redundant power supplies
+ANSWER: D
+
+A company has designed its AWS Cloud infrastructure to run its workloads effectively. The company also has protocols in place to continuously improve supporting processes. Which pillar of the AWS Well-Architected Framework does this scenario represent?
+A. Security
+B. Performance efficiency
+C. Cost optimization
+D. Operational excellence
+ANSWER: D
+
+A company does not want to rely on elaborate forecasting to determine its usage of compute resources. Instead, the company wants to pay only for the resources that it uses. The company also needs the ability to increase or decrease its resource usage to meet business requirements. Which pillar of the AWS Well-Architected Framework aligns with these requirements?
+A. Operational excellence
+B. Security
+C. Reliability
+D. Cost optimization
+ANSWER: D
+
+Which AWS service is always provided at no charge?
+A. Amazon S3
+B. AWS Identity and Access Management (IAM)
+C. Elastic Load Balancers
+D. AWS WAF
+ANSWER: B
+
+Which of the following is an AWS best practice for managing an AWS account root user?
+A. Keep the root user password with the security team.
+B. Enable multi-factor authentication (MFA) for the root user. 
+C. Create an access key for the root user. 
+D. Keep the root user password consistent for compliance purposes.
+ANSWER: B
+
+Which of the following is a characteristic of the AWS account root user?
+A. The root user is the only user that can be configured with multi-factor authentication (MFA).
+B. The root user is the only user that can access the AWS Management Console.
+C. The root user is the first sign-in identity that is available when an AWS account is created. 
+D. The root user has a password that cannot be changed.
+ANSWER: C
+
+Which responsibility belongs to AWS when a company hosts its databases on Amazon EC2 instances?
+A. Database backups
+B. Database software patches
+C. Operating system patches
+D. Operating system installations
+ANSWER: D
